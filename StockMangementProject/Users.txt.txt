@@ -1,0 +1,709 @@
+¬í sr java.util.LinkedHashMap4ÀN\lÀû Z accessOrderxr java.util.HashMapÚÁÃ`Ñ F 
+loadFactorI 	thresholdxp?@     w      t abcsr stockss.User¼x'Ó™Ú D balanceL cartt Ljava/util/ArrayList;L namet Ljava/lang/String;L passwordq ~ L refresht Lstockss/Stocks;L stocksBoughtq ~ L transactionsq ~ L useridq ~ xp@@     sr java.util.ArrayListxÒ™Ça I sizexp    w    xt yutit yutisr stockss.Stocksäc!˜ý¡“ L 	allStockst Ljava/util/LinkedHashMap;xpsq ~  ?@     w     ]t Vidhi Specialty Foodsr stockss.Stockdata	r 
+Ÿ F LTPF 	PrevPriceF 
+change_perF 	change_rsF volumeL nameq ~ xpC§†fC‹ìÍAÂB\ÌÍD¡¿
+q ~ t Privi Speciality Chesq ~ DÆ‘šD¦fAœÌÍC‚,ÍD_Yšq ~ t TPL Plastechsq ~ C«æfC–,ÍAg…B-ÌÍDÎ¸q ~ t The Investment Trustsq ~ Bö€ BÙffAV=qAhÌÍCn.q ~ t Indian Metal & Ferrosq ~ Dl9šDRFfAEp¤BÏ™šD`¹šq ~ t HILsq ~ EÇÚfE²ÄÍA<£×D(¬ÍC*Âq ~ t Salona Cotspinsq ~ Cdó3CMÍA:\A¿33CW«…q ~ t R Systems Intl.sq ~ CLó3C7ó3A6¸RA¨  DÔÒáq ~  t Mahindra Logisticssq ~ D;šD'ð A6\B™LÍE(qq ~ "t Asahi Songwon Colorssq ~ CÎyšCº&fA.¸RB"™šC±†fq ~ $t 
+Shanthi Gearssq ~ C>æfC,ŒÍA*{A’ÌÍE^¨¤q ~ &t Sun Pharma Adv. Ressq ~ C‡¬ÍCus3A(ÌÍAÏ33FRæ¤q ~ (t Sun Pharma Inds.sq ~ DA|ÍD/À A!p¤BæfG5¶q ~ *t Golden Tobaccosq ~ B¤€ B•™šA\)@îffD˜Rq ~ ,t Nahar Capital &Finl.sq ~ Cœ  CæfA
+=Aá™šC’.q ~ .t Onelife Capitalsq ~ AC33A1™šA\?ŒÌÍ@à£×q ~ 0t HLVsq ~ A!™šA33Azá?fffD	#×q ~ 2t Sintercom Indiasq ~ BÀ³3B°ffA×
+AffDÐ q ~ 4t SRFsq ~ FJÍE÷Ý3A¸RD5Ã3D¢Îfq ~ 6t IIFL Wealth Mgment.sq ~ D°išD¢	šA
+ë…Bæ  CeÌÍq ~ 8t Shree Rama Newssq ~ AÅ™šA¶  A	¸?ù™šDÆb=q ~ :t TeamLease Servicessq ~ E…"fEu” AáHC¥†fCe¸Rq ~ <t Pioneer Embroideriessq ~ B•ÌÍB‹33@ó…@©™šE=ŒÍq ~ >t KSBsq ~ Dã3D†©š@òáHB£™šDuq ~ @t Jullundur Motor Agensq ~ B‹æfB‚33@îff@›33CnÞ¸q ~ Bt Max Healthcare Instsq ~ C”9šCŠš@ê\A¢  ED¦fq ~ Dt Deepak Nitritesq ~ DþæfDí›3@èõÃC
+YšEÖÉHq ~ Ft 
+Tech Mahindrasq ~ D—1šDŒùš@è  B£€ FŸ’q ~ Ht Summit Securitiessq ~ D0ð D%,Í@ã×
+B<33B*®q ~ Jt Dynemic Productssq ~ D33Dã3@àQìB  Cøc×q ~ Lt Kothari Petrochemsq ~ B8  B,™š@Ó33@6ffD±5q ~ Nt Shivalik Bimetalsq ~ C  Bù™š@Ò=qA33B\q ~ Pt Bhagyanagar Propertsq ~ AøÌÍAé™š@ÐQì?ó33C„Èöq ~ Rt Precision Camshaftssq ~ BÚ  BÌÌÍ@Îff@Ó33DT)q ~ Tt Sun TV Networksq ~ DæfDIš@Ê=qB	ÌÍF.\q ~ Vt Asahi India Glasssq ~ C¿€ C´@ @Ç®A´  EQ@¤q ~ Xt Emami Paper Millssq ~ C8s3C-³3@Æ{A,  D~q ~ Zt Coromandel Interntl.sq ~ De€ DX  @Æ{BV  DÞÃq ~ \t 
+Quess Corpsq ~ DYVfDL° @ÅÂBJffD­
+q ~ ^t Elgi Rubber Co.sq ~ B(ÌÍB  @Å¸@ÌÍD˜)ìq ~ `t Rane Engine Valvesq ~ C¬†fC¢“3@Ã×
+AŸ33Ct¸q ~ bt Home First Financesq ~ D	šD
+c3@Ã×
+B
+ffD"qq ~ dt Cerebra Integ. Techsq ~ BsÌÍBeÌÍ@ÂáH@`  D÷ìq ~ ft NR Agarwal Indssq ~ C @ C—3@Â=qA’ÌÍDtÜÍq ~ ht 
+Ashok Leylandsq ~ CÌÍBúff@Â=q@ó33G˜üaq ~ jt Intellect Designsq ~ D:æfD0Vf@¿®B)  DX(Rq ~ lt Laurus Labssq ~ D ` DYš@¾¸RBffF$…q ~ nt Fert Chem Travancoresq ~ C
+ÍC&f@½Â@üÌÍEK{q ~ pt Visagar Polytexsq ~ ?fff?Y™š@¼(ö=LÌÍF†B½q ~ rt Godrej Agrovetsq ~ D.LÍD$¦f@»…BffD¨“…q ~ tt AMJ Land Holdingssq ~ B™šB™š@»…@   CÇ“3q ~ vt MRO-TEK Realtysq ~ B
+ÌÍB33@¹G®?ó33@¸£×q ~ xt JK Tyres & Inds.sq ~ CffCÀ @®{@ôÌÍEV¬Rq ~ zt Fairchem Organicssq ~ DÛÞfDÐ“3@­¸B´³3Cúáq ~ |t Sundaram BrakeLiningsq ~ CçS3CÛs3@­¸A¾  B®¸q ~ ~t NACL Industriessq ~ B£šBšÌÍ@«…@„ÌÍCÂLÍq ~ €t Cineline Indiasq ~ Bx33Bk™š@«33@I™šEQ¡Ãq ~ ‚t 
+Mahanagar Gassq ~ D‘ë3DŠ™š@¨õÃBj33D·Îq ~ „t Madras Fertilizerssq ~ BffAø  @¥¸?ÌÌÍDªq ~ †t Take Solutionssq ~ B}33BpÌÍ@¤ÌÍ@FffEH\q ~ ˆt UTI Asset Managementsq ~ D‚8 Dwæf@¡ë…BH™šDˆ
+q ~ Št Hind Oil Explorationsq ~ Bû€ Bïff@¡™š@Á™šEpO…q ~ Œt Lambodhara Textilessq ~ BÍÌÍBÄ  @   @œÌÍBIÌÍq ~ Žt 	TV Visionsq ~ @ff@   @   =ÌÌÍCèöq ~ t ISMTsq ~ AÚffAÐ  @   ?¦ffB¢½qq ~ ’t Celebrity Fashionssq ~ AZffAP  @   ?&ffA»G®q ~ ”t 
+Reliance Commsq ~ @I™š@@  @   >™šG3Ž@q ~ –t Deep Energy Res.sq ~ BA33B8  @   @33AâQìq ~ ˜t Lokesh Machinessq ~ B,33B$  @   @33A¿33q ~ št Sumeet Indssq ~ A33A  @   >æffBåž¸q ~ œt Rajratan Global Wiresq ~ Eð E
+ØÍ@   BâæfA›™šq ~ žt Nureca Ltd.sq ~ D×  DÍ\Í@   B¤33AÄ¸Rq ~  t Shriram Pistons & Ringssq ~ D‹8 D„˜ @   BT  @ÍÂq ~ ¢t KPI Globa Infrastruesq ~ C€ C š@   @ÌÌÍD;…q ~ ¤t Venus Remediessq ~ CéÌÍCÞ¬Í@   A²  B®q ~ ¦t Inox Wind Energysq ~ DNLÍDD|Í@Ÿ®B  A(öq ~ ¨t Tejas Networkssq ~ C€FfCtYš@Ÿ®AC33B8£×q ~ ªt 
+NK Industriessq ~ AÚÌÍAÐff@Ÿ®?¦ff@
+áHq ~ ¬t Agri-Tech (India)sq ~ B=ffB4ff@Ÿ®@  B)33q ~ ®t 
+Madhav Coppersq ~ B$33Bff@Ÿ®?ù™šCh®q ~ °t IZMOsq ~ CšCYš@Ÿ®@Ø  B…q ~ ²t ICDSsq ~ BÌÍBff@Ÿ®?ìÌÍ?záHq ~ ´t Arrow Greentechsq ~ C€ Cff@Ÿ®@ã33@Û33q ~ ¶t Goodluck Indiasq ~ C¹šCˆæf@Ÿ®AZffDP q ~ ¸t Cambridge Tech Entersq ~ B³  Bª€ @Ÿ®@ˆ  CY…q ~ ºt Omkar SpecialityChemsq ~ A33Aˆff@Ÿ®?Y™šAffq ~ ¼t Zuari Agro Chemicalssq ~ CæfCff@Ÿ\)@Ð  BW  q ~ ¾t Olectra Greentechsq ~ C—¬ÍCyš@Ÿ\)AfffDaAHq ~ Àt Tirupati Forgesq ~ B“€ BŒ€ @Ÿ\)@`  @Ñ™šq ~ Ât Hexa Tradexsq ~ Bÿ  Bòæf@Ÿ\)@Á™š@ÌÌÍq ~ Ät Tata Teleservice(Mahsq ~ BÌÍB™š@Ÿ\)?æffC³q ~ Æt Hubtownsq ~ BÌÍB™š@Ÿ\)?æffB<záq ~ Èt Airansq ~ AÊffAÀÌÍ@Ÿ\)?™™šBdp¤q ~ Êt Guj Raffia Indssq ~ B™šB™š@Ÿ\)?à  B=qq ~ Ìt Genesys Intl. Corpnsq ~ C  C¦f@Ÿ\)@ë33AÂÌÍq ~ Ît Everest Kanto Cylindsq ~ B½ÌÍB´ÌÍ@Ÿ\)@  B¾”{q ~ Ðt Rama Steel Tubessq ~ C4YšC+ÌÍ@Ÿ\)AÌÍC"!Hq ~ Òt Oricon Enterprisessq ~ BÌÍAù33@Ÿ\)?ÆffC±ìq ~ Ôt Jai Balaji Indssq ~ B‡ffB  @ž¸R@LÌÍCálÍq ~ Öt Touchwood Entertainmsq ~ BÞ33BÓ³3@ž¸R@¨  Bi¸Rq ~ Øt BSLsq ~ B’šB‹33@ž¸R@\ÌÍBÔŠ=q ~ Út 	Beardsellsq ~ A‡™šA33@žff?LÌÍBn…q ~ Üt RattanIndia Entsq ~ B…™šB~™š@žff@I™šE• q ~ Þt 	Cinevistasq ~ Am™šAbff@žff?333A·p¤q ~ àt 	Lyka Labssq ~ BŸ33B—³3@ž{@p  D/z=q ~ ât DCMsq ~ B\ÌÍBRff@ž{@&ffAº{q ~ ät 
+Autoline Indssq ~ BŠ  Bƒ€ @ž{@P  Bä…q ~ æt 
+CL Educatesq ~ CYšCÙš@ž{@ð  C+(öq ~ èt 
+Visa Steelsq ~ AL  ABff@ž{?™šAýp¤q ~ êt Ortin Laboratoriessq ~ BffBÌÍ@Â?Ó33B´ffq ~ ìt California Softwaresq ~ AnffAc33@Â?333@äzáq ~ ît JITF Infralogisticssq ~ Aæ  AÛ33@Â?¬ÌÍB(öq ~ ðt Khaitan Chem & Fert.sq ~ B—€ Bff@p¤@c33Cõ•Ãq ~ òt Megasoftsq ~ Ao33Ad  @¸?333Ca½qq ~ ôt Karma Energysq ~ Aç33AÜff@œÌÍ?¬ÌÍ@ß®q ~ öt Equippp Socialsq ~ AM™šAD  @œÌÍ?™š?Ç®q ~ øt Nagreeka Exportssq ~ B™šB33@œzá?ìÌÍB5p¤q ~ út National Steel &Agrosq ~ @‰™š@ƒ33@œ(ö>LÌÍ@ÈõÃq ~ üt Adroit Infotechsq ~ A	™šA33@œ(ö>ÌÌÍ@¦ffq ~ þt SKIL Infrastructuresq ~ @‰™š@ƒ33@œ(ö>LÌÍBÈõÃq ~ t Andhra Cementssq ~ B  Aö  @œ(ö?À  DÙÔÍq ~t Surana Solarsq ~ ANffADÌÍ@œ(ö?™šB­¸q ~t Prajay Engg.Syndicatsq ~ A×33AÍ33@›×
+?   B§½qq ~t Flexituff Venturessq ~ A¬ffA¤ff@›×
+?€  A°¸Rq ~t Panache Digilifesq ~ B’™šB‹ÌÍ@›…@Y™šAÂáHq ~
+t JBF Industriessq ~ BÌÍAÿ33@›…?ÆffCñhöq ~t IL&FS Investment Mgrsq ~ A
+ffA  @›33>ÌÌÍD·Eqq ~t RattanIndia Powersq ~ @Ð  @Æff@šáH>™™šEëáq ~t Century Extrusionssq ~ A  AÌÍ@šáH>æffD“˜¤q ~t Zuari Globalsq ~ C@ Có3@šáH@é™šB°Bq ~t TN Telecommunicationsq ~ AŠÌÍA„ff@š\?LÌÍ@î{q ~t Rolta Indiasq ~ @ó33@è  @š\>³33C˜:áq ~t Tridentsq ~ A¥33A™š@š=q?s33Gbj_q ~t Shreyas Shippingsq ~ Ca  CV¦f@š=qA%™šC&…q ~t Arihant Superstruct.sq ~ BÁ€ B¸™š@š=q@ŽffC=èöq ~t Tarapur Transformerssq ~ @®ff@¦ff@™ë…>€  BÂLÍq ~ t Surana Telecomsq ~ @Ñ™š@È  @™™š>™™šBêŠ=q ~"t Seamecsq ~ D€ D“3@™G®AÝ™šCÍq ~$t Reliance Powersq ~ A@ÌÍA8  @˜õÃ?ÌÍFÓfq ~&t Lakshmi Machine Worksq ~ Fç3F Á3@˜õÃCÄÀ B/¸Rq ~(t FCS Software Soltns.sq ~ @ÌÍ@ff@˜Qì=ÌÌÍF50×q ~*t Ankit Metal & Powersq ~ @ÌÍ@ff@˜Qì=ÌÌÍCŠ=q ~,t Jaypee Infratechsq ~ @ÌÍ@ff@˜Qì=ÌÌÍF="\q ~.t BLBsq ~ AS33AI™š@˜Qì?™šB‡Âq ~0t Solar Industriessq ~ DÕšDËk3@˜QìBšæfC¥ª=q ~2t Reliance Infrasq ~ B™šB’33@—
+=@\ÌÍD¬S3q ~4t Magnum Venturessq ~ A   AÌÍ@–¸R>æffB­záq ~6t Country Condo'ssq ~ @Vff@LÌÍ@–{>™šB»q ~8t Kaushalya Infra Devsq ~ @Vff@LÌÍ@–{>™šA°£×q ~:t 
+S.E. Powersq ~ A33AÌÍ@•Â>ÌÌÍBÈáHq ~<t 
+SAL Steelssq ~ AhÌÍA^ff@•Â?&ffDNJ=q ~>t Digicontentsq ~ AhÌÍA^ff@•Â?&ffA`  q ~@t Shree RamaMulti-Techsq ~ A|ÌÍAq™š@”zá?333C¤¬Íq ~Bt Nagreeka Cap & Infrasq ~ @üÌÍ@ñ™š@”zá>³33A%¸q ~Dt Nagarjuna Fertilizersq ~ Aˆ  A‚  @“×
+?@  D”Þfq ~Ft 
+Lloyds Steelssq ~ @Y™š@P  @“×
+>™šDÝ¶¸q ~Ht Reliance Capitalsq ~ A‘33AŠÌÍ@“…?LÌÍE5šq ~Jt 
+Patspin Indiasq ~ AH  A?33@“33?ÌÍB6{q ~Lt Vedantasq ~ C–ìÍCLÍ@’áHAT  G6nq ~Nt Digispice Technologsq ~ B’šB‹³3@’\@LÌÍD'
+q ~Pt J Kumar Infraprojectsq ~ C\™šCRó3@’=qAffCäAHq ~Rt Prozone Intu Propertsq ~ B	™šB™š@‘ë…?À  DªW\q ~Tt Khadim Indiasq ~ C’ÙšCŒs3@‘ë…ALÌÍBÈ.q ~Vt Marine Electricalssq ~ BN™šBE™š@‘™š@  Ež–öq ~Xt Sundaram Multi Papsq ~ @33@ÌÍ@‘™š=ÌÌÍDµq ~Zt Compuage Infocomsq ~ Aï™šAå33@‘G®?¦ffD¹êq ~\t HB Stockholdingssq ~ AË™šAÂÌÍ@£×?ŒÌÍA¯\)q ~^t 
+Aarti Indssq ~ Di³3D_™š@£×B!™šDî8Rq ~`t Abbott Indiasq ~ F”‰€FŽ#æ@  DL³3AÃ\)q ~bt Entertain. Networksq ~ CQ&fCH33@
+=A33DÃq ~dt 
+Xpro Indiasq ~ C &fC™LÍ@
+=A[33B×p¤q ~ft HFCLsq ~ B•æfB€ @Ž¸R@LÌÍEËqq ~ht Landmark PropertyDevsq ~ @¼ÌÍ@´ÌÍ@p¤>€  BÔ#×q ~jt MSP Steel & Powersq ~ A=™šA5™š@¸?   Cá×q ~lt Linc Pen & Plasticssq ~ CYs3CPLÍ@ŒzáAffB6…q ~nt Nila Spacessq ~ @™š@33@‹33=ÌÌÍC)õÃq ~pt 
+Hi-Tech Gearssq ~ C®fC¦Æf@‹33Ah  Bäúáq ~rt Suvidhaa Infoservesq ~ AÀÌÍA¸ÌÍ@Š\?€  BÖBq ~tt Ahlada Engineerssq ~ CWÌÍCNÙš@Š\A33Cèöq ~vt 	Ind-Swiftsq ~ @è  @Þff@Š=q>™™š?î{q ~xt Hotel Rugbysq ~ @›33@”ÌÍ@‰™š>LÌÍAqG®q ~zt GTLsq ~ A®ÌÍA§™š@‰™š?fffCäBq ~|t Eastern Silk Indssq ~ @i™š@`  @‰G®>™šA€Qìq ~~t 
+Shyam Centurysq ~ A}™šAs33@ˆõÃ?&ffEy9q ~€t Allcargo Logisticssq ~ CE™šC=€ @ˆ£×A™šE ãqq ~‚t Hindcon Chemicalssq ~ B•šB  @ˆ£×@C33Bök…q ~„t Deepak Fert & Petrosq ~ C×yšCÎ¬Í@ˆQìAŒÌÍCÔlÍq ~†t Shradha Infraprojectsq ~ B\ffBSff@ˆQì@  ?¢\q ~ˆt JP Power Venturessq ~ @œÌÍ@–ff@ˆQì>LÌÍGädNq ~Št 	PTC Indiasq ~ BÉ€ BÁLÍ@‡®@ƒ33Dyeq ~Œt Century Enkasq ~ CñæfCèš@‡
+=AœÌÍDxþq ~Žt Silly Monks Entert.sq ~ A³33A¬  @†{?fff@LÌÍq ~t Ciplasq ~ Df3D\Æf@…ÂBÌÍEÄBáq ~’t 	Rupa & Cosq ~ DÜÍCùLÍ@…ÂA¦ÌÍD‘qq ~”t Kavveri Telecom Prodsq ~ @   @™š@…p¤=ÌÌÍ?G®q ~–t SCAPDVRsq ~ @   @™š@…p¤=ÌÌÍCuÃq ~˜t Escortssq ~ D”3DŽ$Í@„ÌÍB<ÌÍD¬,)q ~št RCFsq ~ B¨33B¡€ @„ÌÍ@VffF¤q ~œt Banco Products (I)sq ~ C+&fC$Yš@„zá@Ù™šD”ú=q ~žt B.L. Kashyap and Sonsq ~ AÊ  AÂ  @ƒ×
+?€  Cük…q ~ t Cera Sanitarywaresq ~ E‹( E…¥š@ƒ×
+C0LÍB¤õÃq ~¢t 
+Kokuyo Camlinsq ~ B–šB33@‚áH@<ÌÍD«c×q ~¤t International Const.sq ~ AÁ™šAº  @‚áH?s33<#×
+q ~¦t Diligent Media Corpnsq ~ @#33@ÌÍ@‚\=ÌÌÍC‡4{q ~¨t SPICsq ~ B™šBu™š@‚=q@   Ei.q ~ªt PVP Venturessq ~ @¤ÌÍ@žff@G®>LÌÍBR33q ~¬t Oriental Hotelssq ~ B™šBÌÍ@€õÃ?¹™šC7Š=q ~®t Pearl Polymerssq ~ AÌÍA‹33@€£×?333BMõÃq ~°t Future Enterprisessq ~ A%™šA33@€£×>ÌÌÍD7¤{q ~²t Aarvee Denims & Exp.sq ~ AÙ™šAÑ33@€£×?†ffBûQìq ~´t Minda Corporationsq ~ C
+ÌÍCs3@€Qì@«33EJíÃq ~¶t Munjal Showasq ~ C!À CŒÍ@\)@ÆffD5¤q ~¸t Rane Madrassq ~ CÊ†fCÂÌÍ@~{Aw33Ckë…q ~ºt Vaibhav Globalsq ~ DOp DG™š@{…AúÌÍD7éšq ~¼t Ashapura Minechemsq ~ Có3C
+ff@{…@±™šBÙuÃq ~¾t Burnpur Cementsq ~ @)™š@#33@záH=ÌÌÍBhp¤q ~Àt Pressman Advertisingsq ~ BÌÍB ÌÍ@xQì?   BÉzáq ~Ât Trejhara Solutionssq ~ B†LÍBLÍ@w®@   Ceúáq ~Ät Usha Martin Educatn.sq ~ @™š@y™š@vff>™šA\(öq ~Æt 
+Bank Of Indiasq ~ B”ÌÍBLÍ@uÂ@0  Eˆ	Ãq ~Èt 	Inox Windsq ~ CÙšC¦f@u¸@¦ffD¥@¤q ~Êt DRC Systems Indiasq ~ CùšCŠ³3@s33A(ÌÍ@Œ(öq ~Ìt Orient Paper & Inds.sq ~ AüffAó33@që…?“33E%J=q ~Ît Religare Enterprisessq ~ C&  Có3@që…@Á™šDæªq ~Ðt Krishana Phoschemsq ~ C  C	ÌÍ@qG®@¦ffAÏ×
+q ~Òt Bharat Dynamicssq ~ CÒfCÊff@qG®At  DÞfq ~Ôt Palash Securitiessq ~ B¢æfB  @p£×@<ÌÍA3®q ~Öt 	LGB Forgesq ~ A™šA ÌÍ@n¸R>™™šC}À q ~Øt BKM Industriessq ~ ?³33?¬ÌÍ@lÌÍ=LÌÍC‚q ~Út MPSsq ~ D7‰šD1f@k…AÐffBÄÇ®q ~Üt TVS Electronicssq ~ CDšC=&f@jáH@ÞffC¬šáq ~Þt 
+Clean Sciencesq ~ DÒ@ DÊÎf@jáHBn33Džü)q ~àt TechIndia Nirmansq ~ @´ÌÍ@®ff@jáH>LÌÍB\)q ~ât Alkem Laboratoriessq ~ EWÙšEP:f@j=qBóæfC”{q ~ät 
+Best Agrolifesq ~ D
+³3DÐ @i™šAœffBKQìq ~æt Mercatorsq ~ @6ff@0  @hõÃ=ÌÌÍErP)q ~èt Nava Bharat Venturessq ~ Bø€ BïÌÍ@hQì@‹33E	¥Ãq ~êt Kiri Industriessq ~ DìÍDã3@fffA¡33D %Ãq ~ìt Coral India Fin &Hsgsq ~ BO33BH  @fff?æffC¦fq ~ît Amara Raja Batteriessq ~ D3öfD-¶f@fffAÈ  D¼×q ~ðt IFCIsq ~ AfffA^ff@fff?   F$
+q ~òt Ajooni Biotechsq ~ Br33BiÌÍ@eÂ@ffCNÇ®q ~ôt 
+20 Micronssq ~ B…  B€ff@e¸@33Cüð¤q ~öt Vipulsq ~ B™šBff@e¸?¦ffB„áHq ~øt Maricosq ~ D¬ÍDöf@dzáA–ÌÍEß'ìq ~út 
+Phoenix Millssq ~ DWéšDP‰š@b\Aì  CQìq ~üt Reliance Home Financsq ~ @ŒÌÍ@ˆ  @aë…>™šD§áq ~þt North Eastern Carry.sq ~ A˜ÌÍA“™š@aG®?&ffCØìq ~ t Insecticides Indiasq ~ DCæfD=<Í@aG®AÕ33CH³3q ~t 	Alps Indssq ~ @<ÌÍ@6ff@`£×=ÌÌÍAp¤q ~t Ujaas Energysq ~ @<ÌÍ@6ff@`£×=ÌÌÍD›2=q ~t Bharat Gearssq ~ Bù€ Bñš@^¸R@†ffCæ:áq ~t KIOCLsq ~ C”À CÆf@]p¤A33Cÿbq ~
+t SH Kelkar & Cosq ~ C)s3C#æf@XõÃ@±™šCž¸q ~t Crompt.Greaves Cons.sq ~ CóŒÍCë“3@XõÃA33Dµqq ~t National Fertilizerssq ~ B€LÍBx33@XQì@ffEÞ~Rq ~t Aptechsq ~ CfC‹S3@W®AffD—ß\q ~t Phillips CarbonBlacksq ~ C‡À CƒYš@VffAÌÍE‡‰…q ~t GSFCsq ~ Bô€ Bì™š@UÂ@|ÌÍF»Ãq ~t Prakash Steelagesq ~ ?Æff?À  @U¸=LÌÍCÅq ~t Century Textile &Indsq ~ DFð D@ŒÍ@TzáAÌffDÕÇ\q ~t Simbhaoli Sugarssq ~ B™šBÌÍ@S×
+?™™šC!Hq ~t Max Ventures & Indsq ~ B»šBµš@S×
+@@  D•( q ~t Apollo Tyressq ~ C_s3CXLÍ@S×
+@äÌÍE´<=q ~ t Aster DM Healthcaresq ~ C#ffC@ @P  @¤ÌÍDç\q ~"t Cyber Media (I)sq ~ AK33ADÌÍ@P  >ÌÌÍA.¸Rq ~$t Monte Carlo Fashionssq ~ C¼s3C¶“3@N{A<  CåË…q ~&t FDCsq ~ CºšC´Yš@L(öA8  CŸâq ~(t 
+De Nora Indiasq ~ C½s3C·¦f@J=qA9™šBJffq ~*t Sanofi Indiasq ~ FfEý'3@I™šC33BX\)q ~,t Neyveli Lignitesq ~ Bm33Bf  @HQì?æffE„MÃq ~.t Archidply Decorsq ~ B™šB
+33@G®?ŒÌÍA	™šq ~0t 	TVS Motorsq ~ DÓ3Dvf@G
+=A‹™šFm\q ~2t Ambika Cotton Millssq ~ DÄašD¾€ @EÂB<33BùG®q ~4t Selan Exploratn Techsq ~ CÌÍC€ @E¸@‰™šBó=qq ~6t 
+RHI Magnesitasq ~ C¯“3CªS3@E¸A(  C‹ÕÃq ~8t Time Technoplastsq ~ B¤€ BŸ™š@Dzá@ÌÍDLq ~:t Ratnamani Metalssq ~ E&fE+3@C×
+B~ÌÍC50¤q ~<t Sanghvi Moverssq ~ CHÌÍCBÙš@C33@¾ffBè™šq ~>t Technocraft Indssq ~ D)ÆfD$À @C33A ÌÍBþ¸Rq ~@t Pritish Nandy Commsq ~ BÌÍB33@B\?“33AàáHq ~Bt 
+Siti Networkssq ~ ?Ù™š?Ó33@Aë…=LÌÍE¿q ~Dt Jindal Hisarsq ~ C“lÍCš@AG®A
+ffEW®q ~Ft GATIsq ~ C#æfCš@AG®@™™šDÄšáq ~Ht Hilton Metal Forgingsq ~ A\ÌÍAVff@?\)>ÌÌÍBQìq ~Jt Endurance Techsq ~ DØ€ DÒ;3@>¸RBH™šC2èöq ~Lt Refex Industriessq ~ CŒÍC€ @>{@™šCCxRq ~Nt Whirlpool Of Indiasq ~ E	¯3E¾f@<ÌÍB|33B¨LÍq ~Pt Sri Havisha Hospitalsq ~ ?à  ?Ù™š@<(ö=LÌÍBú(öq ~Rt Shreniksq ~ ?à  ?Ù™š@<(ö=LÌÍF
+`öq ~Tt SIL Investmentssq ~ C¥¹šC¡  @;…A33?.{q ~Vt Sterling Toolssq ~ Cws3Cpff@;…@á™šCÔ\)q ~Xt Jagsonpal Pharmasq ~ C3YšC.@ @;…@£33C)q ~Zt Jamna Auto Inds.sq ~ B³³3B®™š@:áH@#33D”[×q ~\t Synergy Green Inds.sq ~ C@³3C;@ @:=q@®ffBýáHq ~^t IRB Infra.&Developersq ~ C$YšCÀ @8Qì@“33E%bq ~`t Balkrishna Inds.sq ~ E]šE8 @8QìB„³3DÍq ~bt eClerx Servicessq ~ ET Eh @8QìB{  AªQìq ~dt PVRsq ~ D¯fDª)š@7
+=B™šDõáq ~ft Viji Financesq ~ ?æff?à  @7
+==LÌÍCÀáq ~ht Future Supply Chainsq ~ B£³3BŸ33@5¸@  BW  q ~jt Puravankarasq ~ BÛÌÍBÕÌÍ@3×
+@@  D}_\q ~lt 
+Prakash Pipessq ~ C/æfC+&f@1ë…@˜  Cíj=q ~nt Kirloskar Oil Engsq ~ CxYšCq¦f@1G®@ÖffC~°¤q ~pt Keerti Knowledgesq ~ A£™šAŸ33@0£×?ÌÍA	™šq ~rt Tanla Platformssq ~ DnP Dgéš@0£×AÌÌÍC…q ~tt Dabur Indiasq ~ D,ÍD&f@0  A€ÌÍED”öq ~vt La Opala R Gsq ~ C‹†fC‡ÌÍ@/\)@îffC‘33q ~xt Sagardeep Alloyssq ~ B“™šB³3@-p¤?ù™šC533q ~zt Voltassq ~ D„ffD€è @-p¤Aß™šD›Ùšq ~|t Apollo Pipessq ~ D•fD‘)š@,ÌÍAû33BÁæfq ~~t Intrasoft Techsq ~ Bä33BÞ33@,ÌÍ@@  Bi\)q ~€t Neogen Chemicalssq ~ DdüÍD_  @+…A¿™šBQìq ~‚t Glenmark Pharmasq ~ DÜÍDæf@+…A}™šE®q ~„t Arihant Foundn. &Hsgsq ~ A×™šAÒ  @*áH?333A¨ÌÍq ~†t Power Mech Projectssq ~ DL  DF¶f@*=qA©33B,33q ~ˆt Amrutanjan Healthcarsq ~ D*¹šD&P @)™šA33BáHq ~Št 
+Mukta Artssq ~ B#33B  @(õÃ?†ffB¡Âq ~Œt AJR Infra and Tollsq ~ ?ù™š?ó33@(Qì=LÌÍET–áq ~Žt NDR Auto Componentssq ~ C¸¹šC´  @'®A33A›\)q ~t Novartissq ~ Dp³3Dj @'®AÄffB*
+=q ~’t NESCOsq ~ D\ÍD|Í@'
+=Ax  Búáq ~”t Pitti Engineeringsq ~ CC&fC>33@&ff@žffCº]qq ~–t Radico Khaitansq ~ DaÆfD\Í@$záAµ33Dž¹Hq ~˜t 
+Neueon Towerssq ~ @   ?ù™š@#×
+=LÌÍ@p¤q ~št 
+Exide Indssq ~ C2¦fC.33@#33@ŽffEÐ
+ q ~œt MM Forgingssq ~ D?#3D:c3@#33A˜  A\)q ~žt Eris Lifesciencessq ~ DE° D@Éš@"\AœÌÍD}ƒ3q ~ t 	JK Cementsq ~ EK²fEF¦f@"\B¡€ B’Ç®q ~¢t Repro Indiasq ~ C´ó3C°€ @!G®AffBO=qq ~¤t Navneet Educationsq ~ BÇffBÂ€ @!G®@ÌÍDú¯®q ~¦t Renaissance Globalsq ~ D)šDLÍ@   Aw33B uÃq ~¨t Godha Cabcon&Insulatsq ~ B$  B   @   ?€  ?
+=q ~ªt TGB Banquetssq ~ A33A   @   >LÌÍA…ë…q ~¬t Mindtreesq ~ E33E.¸ @\)B‹ffDÇuq ~®t Future Consumersq ~ A  A ÌÍ@¸R>LÌÍEÌ’áq ~°t Shriram City Unionsq ~ DèdÍDâÃ3@¸RB433Bêž¸q ~²t Cadila Healthcaresq ~ D†fD  @{Aa™šEG6q ~´t The Ramco Cementssq ~ Dˆ¦fD…aš@ÌÍAÑ33D<áq ~¶t Godrej Propertiessq ~ DÈK3DÃš@ÌÍB33D§mÃq ~¸t Shankara Bldg. Prodsq ~ D#C3D\Í@ÌÍAy™šC¶xRq ~ºt AMD Industriessq ~ Aü  Aö  @(ö?@  B¡ÌÍq ~¼t Vishal Fabricssq ~ Bó™šBíÌÍ@(ö@9™šDˆÜ{q ~¾t Barbeque-Nation Hospsq ~ D[p DVIš@™šA¤ÌÍBPzáq ~Àt Nitin Spinnerssq ~ CuffCo¦f@™š@¸  D¦û3q ~Ât DCWsq ~ B#  B33@õÃ?s33E‡XÍq ~Ät Fine Organic Inds.sq ~ E;ƒ3E7$Í@õÃB‹ÌÍB0\)q ~Æt Graphite Indiasq ~ D0ìÍD,Ð @QìAƒ™šDÓQìq ~Èt L&T Finance Holdingssq ~ B°™šB¬€ @Qì@33F
+H)q ~Êt Canara Banksq ~ C33C¦f@®@c33F•ã³q ~Ìt Navin Fluorine Intlsq ~ Ed” E_[3@ÂB§šCåO\q ~Ît Bank of Maharashtrasq ~ A¯33A«33@Â?   EÄ~=q ~Ðt Den Networkssq ~ BSÌÍBO  @zá?™™šE rq ~Òt Kajaria Ceramicssq ~ Dx DsÍ@G®A°ffBœÇ®q ~Ôt Shree Cementsq ~ FÜÓ€F×íæ@G®D³3B6{q ~Öt Cholamandalam Fin.sq ~ D%yšD!Ð @£×AjffAñp¤q ~Øt EPLsq ~ CvŒÍCqš@£×@®ffD7ƒ×q ~Út Ruchi Soya Indssq ~ D‰û3D†îf@£×AÃ33B%¸Rq ~Üt 	Agro Phossq ~ A}™šAx  @£×>³33BÀúáq ~Þt BCL Industriessq ~ CƒyšC€“3@£×@¹™šBÁ×
+q ~àt Adani Ports &Specialsq ~ D(  D$éš@  Am™šFRšq ~ât Alkyl Amines Chemsq ~ E‰šE†f@\)BÀLÍCèöq ~ät Power Grid Corpsq ~ C+&fC'ff@\)@p  FÈ
+Cq ~æt Rico Auto Indssq ~ BmffBh33@\)?¦ffEmìöq ~èt Mazdasq ~ DŒÍDS3@¸RANffAFffq ~êt HealthcareGlobalsq ~ Cz33CtÀ @¸R@®ffD øöq ~ìt Praxis Home Retailsq ~ B/  B+33@{?s33A‹\)q ~ît IFGL Refractoriessq ~ CÍ¬ÍCÉ9š@
+p¤AffB=£×q ~ðt Granules Indiasq ~ C½³3C¹™š@
+p¤A33Eošq ~òt Jindal Stainlesssq ~ C"LÍCÌÍ@ÌÍ@`  E¹ò=q ~ôt ITIsq ~ C šBú³3@(ö@0  E^=q ~öt HCCsq ~ A:ffA6ff@(ö>€  F¦H\q ~øt Container Corpsq ~ D ùšD†f@(öA\ÌÍEÎU3q ~út AU Small Fin. Banksq ~ D˜vfD•4Í@…AÐffDžŒ{q ~üt AKG Eximsq ~ AÎffAÊ  @…?ÌÍ?Ê=qq ~þt 
+Orient Cementsq ~ CÀ Cff@õÃ@VffE»®q ~ t 
+Balaji Aminessq ~ EL, EGäÍ@õÃBˆæfBòáHq ~t Hind National Glasssq ~ B6ffB2™š@Qì?s33A'×
+q ~t Astec Lifesciencessq ~ D­†fD©ë3@®AæÌÍAÉ
+=q ~t Bhageria Industriessq ~ CˆìÍC†š@
+=@´ÌÍBõúáq ~t Anmol Indiasq ~ C(&fC$³3@Â@\ÌÍAÙ
+=q ~
+t Syngene Internation.sq ~ D³3DlÍ@ÂAQ™šCÁï\q ~t PC Jewellersq ~ AÄ  AÀ  @¸?   D¨Záq ~t Navkar Corporationsq ~ BEÌÍBAÌÍ@×
+?€  D[^¸q ~t Inspirisys Solutionssq ~ BŠ³3B‡æf@×
+?³33B–”{q ~t 	Oil Indiasq ~ C&ÙšC#€ @33@VffDƒ3q ~t Talbros Auto Compontsq ~ C¡ùšCžÀ @ë…@ÎffBò8Rq ~t Rane Brake Liningsq ~ D}  Dx–f@ë…A¡33B®q ~t Uttam Galva Steelssq ~ @¡™š@žff@G®=ÌÌÍD£3q ~t 	Max Indiasq ~ B“  Bš@ £×?¹™šC†¸q ~t H.G. Infra Engg.sq ~ D  Dff@ £×A&ffC/^¸q ~t Quick Heal Techsq ~ C—ŒÍC”“3@   @¾ffDtnq ~ t ButterflyGandhimathisq ~ DAùšD>,Í@   As33B¸q ~"t Carborundum Univer.sq ~ D(<ÍD$ó3?þ¸RARffCMhöq ~$t 	SML Isuzusq ~ DÜÍDf?ýp¤A5™šB«õÃq ~&t Hikalsq ~ DÆfD,Í?ýp¤A&ffC·aHq ~(t Lupinsq ~ DŠlÍD‡¼Í?ýp¤A¬  Dµë3q ~*t 
+Polycab Indiasq ~ DçTÍDâØ ?ýp¤B™šC(öq ~,t 
+D.P. Abhushansq ~ C?YšC;¦f?ü(ö@lÌÍAl(öq ~.t Kakatiya Cemen Sugarsq ~ CŠs3C‡Æf?ü(ö@«33Bù(öq ~0t Rallis Indiasq ~ C¢,ÍCŸÍ?úáH@È  D‡Ú=q ~2t Agarwal Indl. Corpsq ~ C®ÌÍC«s3?ù™š@ÖffBQìq ~4t NRB Industrialsq ~ A“™šAÌÍ?÷
+=>³33AO\)q ~6t Commercial Engineerssq ~ B  B33?÷
+=?333CYšq ~8t Guj. Lease Finsq ~ @)™š@&ff?õÂ=LÌÍ@g
+=q ~:t 	S&S Powersq ~ Aª  A¦ÌÍ?õÂ>ÌÌÍ@‡®q ~<t Kernex Microsystemssq ~ BššB—33?õÂ?¹™šAé™šq ~>t 	Wockhardtsq ~ DLÍDÐ ?õÂA33CÙÀ q ~@t MTAR Technologiessq ~ D´dÍD± ?ó33A×33C	ë…q ~Bt SBI Cards AndPaymentsq ~ D˜ D~\Í?ó33AšffE
+q ~Dt Consolid. Finv.&Holdsq ~ BýffBø³3?ñë…@ffA33q ~Ft Jain Irrigation Syssq ~ BffAþ  ?ñë…?™šE†")q ~Ht Future Lifestylesq ~ BLÍBŠ³3?ï\)?¦ffBÝaHq ~Jt CEATsq ~ D©›3D¦š?î{AÆffCxO\q ~Lt Kamdhenusq ~ C4ŒÍC1@ ?î{@S33CVÇ®q ~Nt Indraprastha Gassq ~ Dp Dæf?ìÌÍA"ffE&ÐRq ~Pt Power Finance Corpsq ~ Có3Bÿ33?ë…@ffEí2öq ~Rt 
+Gravita Indiasq ~ C9ffC6Í?ë…@VffCä±ìq ~Tt Dharan Sugars & Chemsq ~ A±™šA®ff?ê=q>ÌÌÍBB\q ~Vt Zee Entertainmentsq ~ CJÀ CGš?ê=q@i™šF q ~Xt 
+Tata Powersq ~ Bú  Bõ€ ?ê=q@  Fë¦³q ~Zt Vineet Laboratoriessq ~ Bß™šBÛ™š?èõÃ@   BÑ
+=q ~\t CSB Banksq ~ C¯fC«æf?èõÃ@È  C¤Ùšq ~^t Mah & Mah Finl. Servsq ~ CffC³3?èõÃ@,ÌÍF%;×q ~`t Som Distilleriessq ~ BJ™šBG  ?ç®?fffCÙ°¤q ~bt 
+21st Cent Mgtsq ~ A´ffA±33?ç®>ÌÌÍ?záq ~dt Federal Banksq ~ B®æfB«ÌÍ?æff?ÆffFaâ=q ~ft Kirloskar Ferroussq ~ C˜,ÍC•€ ?å¸@«33D¸h¤q ~ht Indraprastha Medicalsq ~ B¥ffB¢€ ?ã×
+?¹™šC‹#×q ~jt Visaka Inds.sq ~ DLÀ DI)š?ã×
+Ae™šB××
+q ~lt Guj. Sidhee Cementsq ~ BNÌÍBK33?â\?fffC¿îq ~nt Sundram Fastenerssq ~ D>éšD;™š?â\AT  B¸Rq ~pt 
+BASF Indiasq ~ E3Ã3E0¥š?áG®BGffBO£×q ~rt One Point OneSolutinsq ~ B9™šB6ff?à  ?LÌÍBQìq ~tt 
+Bajaj Autosq ~ EoYšEk< ?à  Bƒ³3Cÿâq ~vt Kabra Extrus.techniksq ~ CTffCPÀ ?à  @i™šC4õÃq ~xt Bombay Super Hybridsq ~ C¦ÍC£33?à  @¶ff@€õÃq ~zt BEMLsq ~ D¢äÍD 3?Þ¸RA²ffCEž¸q ~|t Cosmo Filmssq ~ D”	šD‘ƒ3?Þ¸RA¡™šBœõÃq ~~t Mirza Internationalsq ~ B³3B  ?Ýp¤?ŒÌÍDè–q ~€t 	HCL Tech.sq ~ D€fD{æf?Ü(öAŠÌÍFÈ3q ~‚t Balrampur Chini Millsq ~ C¾  C»ff?Ü(ö@ÎffD¹!šq ~„t Wendt Indiasq ~ EŒ¤ EŠFÍ?ÚáHB—LÍ@áHq ~†t Assoc Alcohols &Brewsq ~ Cî3Cê3?ÚáHA   BN®q ~ˆt Kanpur Plastipacksq ~ CŒlÍCŠ3?Ù™š@–ffBDzáq ~Št Chambal Fert & Chemsq ~ C˜yšC•ìÍ?Ù™š@£33E®cìq ~Œt Heidelberg Cementsq ~ C„S3C‚  ?ØQì@ŒÌÍC›q ~Žt Indoco Remediessq ~ CàÙšCÝ  ?×
+=@îffC¡Hq ~t Saregama Indiasq ~ EX±šEU!š?ÕÂBd  A{q ~’t Mindtecksq ~ Bç™šBãÌÍ?ÕÂ?ó33B±  q ~”t Rollatainerssq ~ @C33@@  ?ÕÂ=LÌÍC‹¸Rq ~–t Dixon Technologiessq ~ E†„ÍE„U3?Ó33B‹æfCŽ®q ~˜t Capri Global Capitalsq ~ D£3Dyš?Ñë…A
+ffBY33q ~št Zenith Exportssq ~ B§šB¤ff?Ñë…?¬ÌÍ@6ffq ~œt Nahar Spinning Millssq ~ CÅ9šCÂÍ?Ñë…@Ë33C-{q ~žt TTK Healthcaresq ~ DD¹šDA–f?Ï\)AHÌÍA(öq ~ t Parsvnath Developerssq ~ A}™šAy™š?ÌÌÍ>€  DWŸ\q ~¢t Urja Globalsq ~ @Ë33@È  ?ÌÌÍ=ÌÌÍF‚öq ~¤t Mahindra & Mahindrasq ~ D9ÆfD6ÜÍ?Ë…A:ffE‘öq ~¦t The Western Indiansq ~ B™šB{™š?Ë…?€  ?#×
+q ~¨t Steel City Securitiesq ~ B“ffB‘š?Ë…?“33B×Ü)q ~ªt Aro Granitesq ~ B™æfB—€ ?Ê=q?™™šCÅ´{q ~¬t Somi Conveyor Beltgsq ~ Bi33Be™š?ÈõÃ?fffAffq ~®t 
+Indigo Paintssq ~ E"ÑšE O3?ÈõÃB ™šA¾ÌÍq ~°t HEGsq ~ E
+  Es3?Ç®B33C¶G®q ~²t Petronet LNGsq ~ CZ@ CVæf?Ç®@VffE7È q ~´t Nilkamalsq ~ E$ E!ˆ ?Ç®B!  A`ÌÍq ~¶t 
+Jay Shree Teasq ~ C ™šBýLÍ?Å¸?ù™šCÈ†fq ~¸t Shivam Autotechsq ~ AÔ  AÐÌÍ?Ã×
+>ÌÌÍCa
+=q ~ºt MBL Infrastructuressq ~ A¹™šA¶ÌÍ?Ã×
+>³33BaõÃq ~¼t Computer Age Mansq ~ EPÌ EM¨Í?Ã×
+BHÌÍCP(öq ~¾t Tata Chemicalssq ~ D>ÉšD;ìÍ?Â\A733Eüöq ~Àt Nath Bio-Genessq ~ C¶ÙšC´  ?ÁG®@®ffAñ
+=q ~Ât Ashoka Buildconsq ~ BÖÌÍBÓ™š?ÁG®?ÌÌÍEsaq ~Ät Hindustan Aeronsq ~ D‹‹3D‰|Í?À  Aƒ™šCL¦fq ~Æt Laxmi Organic Inds.sq ~ C‚à C€ó3?¾¸R@vffD¥o®q ~Èt 
+GAIL Indiasq ~ CŒÍC	€ ?¾¸R@33FaI q ~Êt JM Financialsq ~ BÓÌÍBÐ³3?¾¸R?ÆffE¤q ~Ìt Ind-Swift Lab.sq ~ Bâ€ Bß33?½p¤?Ó33Cû,Íq ~Ît Asian Hotels (West)sq ~ CÀ CŽ¦f?¼(ö@†ffA„  q ~Ðt Orient Abrasivessq ~ B
+33B33?¼(ö?   D@Hq ~Òt Central Dep. Servicesq ~ D¦nfD¤ ?ºáHA™™šC”'®q ~Ôt Dhunseri Venturessq ~ CœYšCšš?ºáH@  BB  q ~Öt Somany Home Innovat.sq ~ C·šC´yš?¹™š@¨  BQìq ~Øt Modi Rubbersq ~ B“  Bæf?¹™š?†ff@]p¤q ~Út SAB Events & Governasq ~ @`  @\ÌÍ?¹™š=LÌÍA\)q ~Üt Dhanlaxmi Banksq ~ A33A‹33?¸Qì>€  E$˜Rq ~Þt Newgen Software Techsq ~ D3Dà ?¸QìAÌÍB«\)q ~àt Adani Enterprisessq ~ D±ˆ D¯ ?·
+=A   E‰™Ãq ~ât Vesuvius Indiasq ~ D¤Ð D¢€ ?µÂA”  B\\)q ~ät Pricolsq ~ BÀ€ B½ÌÍ?µÂ?¬ÌÍD8@ q ~æt Jayant Agro-Organicssq ~ C‘S3CLÍ?´zá@™šC ŒÍq ~èt Omaxesq ~ B¬™šBª33?´zá?™™šBzffq ~êt Hinduja Global Soln.sq ~ E:Ó3E8:f?´záB&33AÐ=qq ~ìt Ausom Enterprisesq ~ B»šB¸€ ?´zá?¦ff@Ù™šq ~ît Jubilant FoodWorkssq ~ EkòfEh³3?³33BOÌÍDHffq ~ðt Federal-Mogul Goetzesq ~ CœS3Cš,Í?±ë…@‰™šD,èRq ~òt 
+STL Globalsq ~ AhÌÍAe™š?±ë…>LÌÍB„q ~ôt Shriram Trans. Finsq ~ D­Ã3D«` ?±ë…A˜ÌÍD²LÍq ~öt Iris Clothingssq ~ C:&fC7™š?±ë…@#33Ao…q ~øt AGC Networkssq ~ D”Ó3D’Ë3?°£×A‚  ?™™šq ~út Lakshmi Finance&Indlsq ~ B¡€ BŸLÍ?°£×?ŒÌÍ>¸Qìq ~üt Tata Motors - DVRsq ~ CÀ C	Ùš?°£×?ó33D®  q ~þt BAG Films & Mediasq ~ @lÌÍ@i™š?¯\)=LÌÍBæ\q ~ t Apollo Micro Systemssq ~ Bç™šBä€ ?®{?ÆffCM—
+q ~t Artemis Medicaresq ~ C½šCº“3?¬ÌÍ@¡™šA‰¸q ~t Bhansali Engg. Poly.sq ~ C;ÌÍC9LÍ?¬ÌÍ@   DÌÒq ~t Surya Roshnisq ~ DffD£3?¬ÌÍ@á™šC€w
+q ~t Energy Developmentsq ~ A6ffA4  ?ª=q>™šBm×
+q ~
+t 
+VRL Logisticssq ~ C˜3C–3?ª=q@€  C¼yšq ~t Guj. Ambuja Exportssq ~ CBšC?ŒÍ?ª=q@#33Dùü)q ~t Nahar Poly Filmssq ~ C_ÌÍC\æf?§®@9™šC„^¸q ~t India Pesticidessq ~ C¨ÌÍC¦  ?§®@‹33DP(Rq ~t Dodla Dairysq ~ Ds3Dvf?¦ff@þffDîq ~t Dolat Investmentsq ~ BëšBèš?¥¸?À  Cª‘ìq ~t 
+Divi's Labsq ~ E™PÍE—^f?¥¸By33D$Ã×q ~t Transport Corp.sq ~ CÒÓ3CÐ&f?¥¸@«33B|¸q ~t Emamisq ~ D¶fD	ó3?£×
+@á™šD<Íq ~t Oil Country Tubularsq ~ @þff@û33?¢\=ÌÌÍA”áHq ~t ACCsq ~ E¡šEÀ ?¢\AðÌÍCè£×q ~ t Kilitch Drugs(India)sq ~ C[¦fCXæf?¢\@0  B€záq ~"t Premiersq ~ @€  @|ÌÍ?¢\=LÌÍA(záq ~$t B.C. Power Controlssq ~ @€  @|ÌÍ?¢\=LÌÍD®q ~&t Avanti Feedssq ~ DÖfDÜÍ?¡G®@üÌÍC‡ð¤q ~(t Gujarat Gassq ~ D2¼ÍD0†f?   A
+™šDOåq ~*t Revathi Equipmentssq ~ D),ÍD'f?   A™š?±ë…q ~,t GMR Infrastructuresq ~ Aã33Aàff?   >³33Fzs…q ~.t Dynamatic Techsq ~ DÒffDÏÐ ?   A¥™š@
+=q ~0t Vinati Organicssq ~ D÷k3Dôaš?ž¸RAÂffB¾=qq ~2t NTPCsq ~ BìffBé€ ?ž¸R?¹™šFcI
+q ~4t Lincoln Pharmasq ~ C®9šC¬š?p¤@ˆ  B÷\q ~6t Minda Industriessq ~ D:33D7ð ?p¤AÌÍC:(öq ~8t 
+Cummins Indiasq ~ DUšDRƒ3?p¤A%™šCÝž¸q ~:t S Chand And Cosq ~ CÍC
+Yš?p¤?Ù™šC¯½qq ~<t Shakti Pumps (I)sq ~ D@YšD>	š?œ(öA  C~33q ~>t 
+Rane Holdingssq ~ D9c3D7)š?šáHAffBóÑìq ~@t NCCsq ~ B¯™šB­€ ?šáH?†ffE+q ~Bt MMP Industriessq ~ CŒÍC¦f?šáH?ó33B××
+q ~Dt 
+VA Tech Wabagsq ~ C¸æfC¶³3?™™š@ŒÌÍCÆfq ~Ft Varun Beveragessq ~ D>s3D<0 ?™™šAÌÍD;èRq ~Ht Happiest Minds Tech.sq ~ Dª33D¨0 ?™™šA€ÌÍDoç®q ~Jt GNFCsq ~ CÀYšC¾š?—
+=@  DÕ«3q ~Lt Alembic Pharmasq ~ DDÓ3DB†f?—
+=A33Dqvfq ~Nt Steel Exchange Indiasq ~ B’  BLÍ?—
+=?Y™šDEq ~Pt Hathway Cable & Datasq ~ AÐffAÎ  ?•Â>™™šE™à=q ~Rt Imagicaaworld Entersq ~ A33A	™š?”zá=ÌÌÍBwzáq ~Tt 
+Future Retailsq ~ Bt™šBqÌÍ?”zá?333DÜÃq ~Vt Creative Newtechsq ~ CZŒÍCXÍ?”zá@   B/\q ~Xt Camlin Fine Sciencessq ~ C<ffC:@ ?“33@	™šD?þq ~Zt Speciality Restauransq ~ B•šB“ff?“33?Y™šC,Eq ~\t Mahindra Life. Devsq ~ D>©šD<€ ?“33A
+ffBò\)q ~^t SpiceJetsq ~ B–šB”ff?“33?Y™šEÅqq ~`t Gandhi Spl. Tubessq ~ Có  Cðff?£×@®ffAç\)q ~bt Valiant Organicssq ~ D¬à Dªó3?£×AvffA‘ë…q ~dt JSW Ispat Specialsq ~ B#ÌÍB"  ?Ž{>æffElÚq ~ft Torrent Pharmasq ~ E?ñšE=Öf?Ž{BÌÍC=ã×q ~ht Tata Communicationssq ~ D´K3D²S3?ŒÌÍA|  C£3q ~jt Aakash Explorationsq ~ C‚ÌÍC` ?ŒÌÍ@6ffB‡W
+q ~lt Snowman Logisticssq ~ BJ  BGÌÍ?ŒÌÍ?ÌÍDëü)q ~nt 
+Cubex Tubingssq ~ AÜffAÚ  ?ŒÌÍ>™™šA4ÌÍq ~pt Nazara Technologiessq ~ Dçë3DådÍ?ŒÌÍA¡™šBè=qq ~rt Aksharchem (I)sq ~ CÞ&fCÛÀ ?‹…@™™šAt  q ~tt Bajaj Electricalssq ~ D  DŽ‘š?‹…AG33Cí&fq ~vt HDFCsq ~ E’fEìÍ?‹…AÒÌÍE®q ~xt Sobhasq ~ D Dvf?‹…@ÌÌÍC€T{q ~zt 	Atul Autosq ~ CX³3CVff?ˆõÃ@33D /\q ~|t Mcdowell Holdingssq ~ BS33BQ  ?†ff?ÌÍAØ£×q ~~t Usha Martinsq ~ B†™šB…33?†ff?333Dâ.q ~€t Wabco Indiasq ~ EãjfEá ?†ffB–™šA™šq ~‚t KCPsq ~ C!&fC€ ?ƒ×
+?Ó33C¨^¸q ~„t 
+MT Educaresq ~ AÌÍA33?ƒ×
+=ÌÌÍCC  q ~†t The Mandhana Retailsq ~ A33A›™š?ƒ×
+>LÌÍBQ33q ~ˆt Karda Constructionssq ~ CD¦fCB¦f?ƒ×
+@   C@T{q ~Št Gillette Indiasq ~ E»RfE¹oš?‚\Bqff@¸£×q ~Œt Rudrabhishek Enter.sq ~ Co@ ClÙš?G®@™šA«\)q ~Žt Keynote Finl. Servsq ~ B–  B”€ ?G®?@  A{q ~t Supreme Industriessq ~ EAšEòf?G®A§™šBc¸q ~’t DCM Shriramsq ~ DhVfDff?G®A  Bq=qq ~”t Shriram EPCsq ~ @¡™š@   ?€  =LÌÍE4Íq ~–t 
+JSW Energysq ~ C|ŒÍCzÍ?€  @   EÅqq ~˜t Sree Rayal.Hi-Strentsq ~ C©S3C§¦f?€  @VffA¬Qìq ~št Bioconsq ~ CÁ,ÍC¿Ff?}p¤@s33E.‹®q ~œt Kansai Nerolac Paintsq ~ D|ÍDöf?záH@Ã33D‚úq ~žt 	Zee Learnsq ~ AvffAt  ?záH>™šE²q ~ t GM Breweriessq ~ D†fDÍ?záH@´ÌÍB™šq ~¢t Aurionpro Solutionssq ~ CYLÍCW33?záH@ffBr£×q ~¤t HDFC Asset Mngt. Cosq ~ E2bfE0ªf?xQìAÜ  Ca&fq ~¦t HCL Infosystemssq ~ AzffAx  ?xQì>™šD;…q ~¨t AVT Natural Prodsq ~ BœæfB›ff?xQì?@  CæÏ\q ~ªt L&T Infotechsq ~ E’bÍEý3?uÂB2ÌÍD	áHq ~¬t NHPCsq ~ AÒ  AÐ  ?uÂ>€  E˜eHq ~®t Linde Indiasq ~ DÛfDØùš?uÂA…33Aí33q ~°t Goldiam Internatl.sq ~ D<ÍDÓ3?uÂ@´ÌÍBäzáq ~²t 
+Sagar Cementssq ~ D¤33D¢¦f?s33AFffB%®q ~´t Zota Health Caresq ~ CzÀ Cxff?s33@ffAø(öq ~¶t Ajmera Realty&Infrasq ~ C›ÍC™™š?p£×@9™šB)záq ~¸t 
+Esab indiasq ~ Dí|ÍDëDÍ?p£×AŽ  @Ö¸Rq ~ºt Xelpmoc Designsq ~ CÎ` CÌs3?p£×@vff@´(öq ~¼t 
+Affle (India)sq ~ E‚Ê E” ?n{B  AÞáHq ~¾t Satin Creditcaresq ~ B­ffB«ÌÍ?n{?LÌÍBÿzáq ~Àt Accuracy Shippingsq ~ B¸LÍB¶™š?n{?Y™šB×
+q ~Ât Inox Leisuresq ~ C¢ÆfC¡Ff?n{@@  Dlqq ~Ät Aurobindo Pharmasq ~ De&fDc ?k…A™šD¿öq ~Æt Gujarat Pipavav Portsq ~ BÝ™šBÛ™š?hõÃ?€  EüRq ~Èt Sintex Plastics Techsq ~ @±™š@°  ?hõÃ=LÌÍDµì{q ~Êt SREI Infra Finsq ~ A2ffA0ÌÍ?fff=ÌÌÍDøöq ~Ìt Jagran Prakashansq ~ B†LÍB…š?fff?™šDê=q ~Ît Shalbysq ~ CAÀ C@Í?c×
+?Ù™šC:+…q ~Ðt Sona BLW Precisionsq ~ CÛ  CÙ³3?aG®@vffDå"=q ~Òt Trentsq ~ Df¹šDd¹š?^¸RA   D4šq ~Ôt MEP Infrastructuresq ~ A¸ÌÍA·33?^¸R>LÌÍBñ¸Rq ~Öt Greenply Industriessq ~ C?LÍC=¦f?^¸R?Ó33C2—
+q ~Øt Sadbhav Engineeringsq ~ B‹™šBŠff?^¸R?™šDMŽq ~Út Archidply Indssq ~ BÌÍB
+™š?^¸R>™™šA®¸Rq ~Üt Bharat Wire Ropessq ~ B£33B¡ÌÍ?^¸R?333BBÌÍq ~Þt EIH Associated Hotelsq ~ C©ffC§ó3?\(ö@9™š@ó…q ~àt RBL Banksq ~ C@ó3C?LÍ?\(ö?Ó33Eý§qq ~ât Banka Bioloosq ~ B™šB€€ ?\(ö?ÌÍA…q ~ät Rajdarshan Indssq ~ AŽÌÍA™š?Y™š>™š?záq ~æt Taj GVK Hotelssq ~ Cs3CYš?W
+=?ŒÌÍCO!Hq ~èt Vadilal Industriessq ~ D‚^fDIš?W
+=A
+ffAXÌÍq ~êt Dr. Reddy's Labsq ~ E“9šE’3?TzáB33D«¦fq ~ìt Hindustan Coppersq ~ C³3Cs3?Që…?   F6ô…q ~ît Hindustan Compositessq ~ C¦ó3C¥™š?Që…@,ÌÍAQìq ~ðt Solara Active Pharmasq ~ DÍ™šDËð ?Që…ATÌÍBË(öq ~òt Sanginita Chemicalssq ~ AøÌÍAöÌÍ?O\)>€  C¸Rq ~ôt Lasa Supergenericssq ~ B•ffB”33?O\)?™šC+…q ~öt 
+Coal Indiasq ~ CLÍC&f?O\)?“33FÙÍq ~øt Vinyl Chemicalssq ~ C&fCæf?LÌÍ?   BRÌÍq ~út Onmobile Globalsq ~ C
+ffC	LÍ?LÌÍ?ŒÌÍDCú=q ~üt Kotak Mahindra Banksq ~ DÎÙšDÍ4Í?LÌÍARffEI` q ~þt Jindal Poly Filmssq ~ Dz¼ÍDxÃ3?J=q@üÌÍB£Ç®q ~ t Hitech Corporationsq ~ CsÀ CqÙš?J=q?ó33A#\)q ~t 	Redingtonsq ~ C£  C¢Yš?J=q@#33D™¾¸q ~t Ganesha Ecospheresq ~ DöfD ó3?J=q@™šA;\)q ~t General Ins. Corpsq ~ C4€ C3š?G®?³33D†fq ~t Elgi Equipmentssq ~ C[€ CYÌÍ?G®?Ù™šE˜`q ~
+t Shipping Corpn.sq ~ BÜÌÍBÛš?G®?Y™šD—µÃq ~t Craftsman Automationsq ~ Dúp Døƒ3?E¸AvffAxÌÍq ~t Nila Infrastructuressq ~ @Ñ™š@Ð  ?E¸=LÌÍD9ã3q ~t MOILsq ~ C>YšC<æf?E¸?¹™šD1”{q ~t Munjal Auto Indssq ~ B„™šBƒ™š?B\?   C¦uÃq ~t Kalpataru PowerTranssq ~ Cë³3CéìÍ?B\@c33C)Íq ~t 	Fiem Indssq ~ DH|ÍDFüÍ?@  @À  Bffq ~t 	ABB Indiasq ~ DÔdÍDÒÐ ?@  AJffB«¨öq ~t Akzo Nobel Indiasq ~ E
+ü Eîf?@  A†ÌÍ@Â\q ~t Jay Bharat Marutisq ~ CYæfCXLÍ?=p¤?ÌÌÍC5Ãq ~t Mukandsq ~ C  C
+ó3?=p¤?†ffC±×
+q ~ t 	Waterbasesq ~ BùffB÷™š?:áH?fffC(ë…q ~"t Manugraph Indiasq ~ A^ffA\ÌÍ?8Qì=ÌÌÍA¨áHq ~$t PG Electroplastsq ~ C»¬ÍCºS3?8Qì@,ÌÍA¤ffq ~&t United Breweriessq ~ D²“3D±K3?8QìA$  C«O\q ~(t TCPL Packagingsq ~ D
+c3Dff?333@|ÌÍA“×
+q ~*t BSEsq ~ DœšD›3?333A33Dšq ~,t Pokarnasq ~ CÅ“3CÄ33?333@0  C"Âq ~.t Zen Technologiessq ~ B¼³3B»ff?0£×?&ffC”1ìq ~0t 
+Bajaj Corpsq ~ CŽ™šC  ?0£×?ù™šCUYšq ~2t Bharat Rasayansq ~ FOÙfFNmš?0£×Bµæf?¬ÌÍq ~4t ABB Power Productssq ~ Dð³3Dï3?.{AP  B(öq ~6t Williamson Magor &Cosq ~ A²  A°ÌÍ?.{>™šAVáHq ~8t Moksh Ornamentssq ~ Aí™šAì  ?.{>LÌÍDaHq ~:t Shilpa Medicaresq ~ DÓ3DÃ3?.{@ˆ  C³nq ~<t Maheshwari Logisticssq ~ BÐæfBÏ€ ?+…?333A—G®q ~>t Tata Consumer Producsq ~ D= D;ÌÍ?+…@¡™šDÉ¥Ãq ~@t 
+V-Mart Retailsq ~ Er| Epß3?+…AÎffCS\)q ~Bt Balmer Lawrie & Cosq ~ Cs3CŒÍ?+…?fffC’c×q ~Dt Bajaj Hold & Investsq ~ E{pÍEyÅš?+…AÕ™šA¬õÃq ~Ft 
+Torrent Powersq ~ Cã™šCâš?(õÃ@@  CÌ¾¸q ~Ht Windsor Machinessq ~ BffBff?(õÃ>€  BÇG®q ~Jt Indian Railway Financesq ~ A¸  A¶ÌÍ?(õÃ>™šEÛ€öq ~Lt 
+Max Financialsq ~ DŒC3D‹[3?&ff@è  D@5q ~Nt Persistent Systemssq ~ EDs3EC0 ?&ffA¡™šCEq ~Pt 
+Hero MotoCorpsq ~ E,´ÍE+›3?#×
+AŒÌÍD:záq ~Rt Pioneer Distilleriessq ~ BûæfBúLÍ?#×
+?LÌÍ@Æ¸Rq ~Tt Indostar Capital Finsq ~ C©S3C¨@ ?#×
+@	™šBffq ~Vt L&T Technology Serv.sq ~ Eg£3Ef+3?#×
+A¼  C‘UÃq ~Xt Dhampur Sugar Millssq ~ C±Ó3C°³3?#×
+@  C¸uÃq ~Zt Indian Overseas Banksq ~ AÃ™šAÂff?¸R>™šEãÍq ~\t 
+PNC Infratechsq ~ Cs3Cœ€ ?(ö?ó33CñaHq ~^t Palred Technologiessq ~ Bè€ Bçš?(ö?333A ¸Rq ~`t Optiemus Infracomsq ~ CŒÍC¦f?(ö?fffBë¸q ~bt Universal Cablessq ~ C7YšC6@ ?™š?ŒÌÍB*®q ~dt Brigade Enterprisessq ~ C£  C¢&f?™š?ù™šC˜Hq ~ft Hindustan Motorssq ~ A  A33?
+==LÌÍC‚ã×q ~ht National Aluminiumsq ~ B»  B¹æf?
+=?ÌÍGŒHÒq ~jt 
+Ambuja Cementsq ~ CÍ“3CÌ` ?
+=@™šE(ÍHq ~lt Wealth First Portsq ~ CGó3CFÌÍ?zá?“33>€  q ~nt 	HDFC Banksq ~ D²NfD±H ?záA33E¶ìq ~pt Gayatri Projectssq ~ B/™šB.™š?ë…>€  E/ˆ)q ~rt Godrej Industriessq ~ Dƒ3D¼Í?ë…@FffC$®q ~tt Mazagon Dock Shipsq ~ C¹šC  ?\)?¹™šD à¤q ~vt Galaxy Surfactantssq ~ EBñšEAÜ ?\)AŠÌÍA’ÌÍq ~xt Sakar Healthcaresq ~ C433C333?\)?€  BÑ”{q ~zt Sanco Industriessq ~ AÌÍA  ?\)=LÌÍB§p¤q ~|t Natco Pharmasq ~ D€šD~™š?ÌÍ@´ÌÍDšáq ~~t Subrossq ~ C£s3C¢ŒÍ?ÌÍ?æffAÆ¸Rq ~€t JSW Holdingssq ~ E¢¸fE¡Ô ?ÌÍAäff@ß®q ~‚t 
+Delta Corpsq ~ C7YšC6Yš?ÌÍ?€  D°`¤q ~„t CCL Products (India)sq ~ CÝ@ CÜÍ?ÌÍ@™šD‹ß\q ~†t Igarashi Motorssq ~ Dó3D<Í?
+=q@6ffC4úáq ~ˆt Agro Tech Foodsq ~ Dz¼ÍDyff?
+=q@«33A{q ~Št Engineers Indiasq ~ B–šB•LÍ?
+=q>ÌÌÍDzÜ)q ~Œt 
+Ganga Forgingsq ~ Bâ33Bá  ?®?™šB_{q ~Žt Ginni Filamentssq ~ BffB™š?®>LÌÍBøp¤q ~t Globus Spiritssq ~ D6ÜÍD5æf?®@vffB’£×q ~’t ICE MakeRefrigeratiosq ~ B«  Bªš?®>æffA
+=q ~”t DCM Nouvellesq ~ CQ³3CP™š?®?ŒÌÍCj×
+q ~–t Electrost Castingssq ~ BffB™š?¸>LÌÍDo®q ~˜t Britannia Indssq ~ EUöfETÙš?¸AŽffDw{q ~št 
+Superhousesq ~ C%ÍC$33?¸?Y™šAÌõÃq ~œt Accelya Solutionssq ~ D«fDª<Í?¸@á™šB33q ~žt Lumax Auto Techsq ~ C'ó3C'š?\?Y™šC Ê=q ~ t Goodyear Indiasq ~ DžÃ3Dø ?   @Ë33BW×
+q ~¢t Kothari Productssq ~ BÝæfBÜÌÍ?   ?ÌÍ@Që…q ~¤t 
+Vimta Labssq ~ C¢,ÍC¡` ?   ?ÌÌÍB–…q ~¦t Jain Irrigation(DVR)sq ~ A¢ffA¡™š?   =ÌÌÍBb¸Rq ~¨t Gokul Refoils & Solvsq ~ AôffAó33>úáH>™šBt™šq ~ªt PTC India Fin. Servsq ~ A£™šA¢ÌÍ>úáH=ÌÌÍDl»…q ~¬t 
+IG Petrochem.sq ~ D.|ÍD-£3>úáH@Y™šB%£×q ~®t 
+GP Petroleumssq ~ BvÌÍBu™š>úáH>™™šBh®q ~°t ONGCsq ~ Bæ™šBå€ >õÂ?ÌÍF?0¤q ~²t Pfizersq ~ E·fE¶°f>õÂAà  B¨.q ~´t Sheela Foamsq ~ E  Ejf>õÂA5™šAiG®q ~¶t Tata Coffeesq ~ CT€ CS€ >ð£×?€  E­Ç3q ~¸t Adani Powersq ~ B¿³3B¾ÌÍ>ð£×>æffD£/®q ~ºt Motor & General Finsq ~ A«33Aªff>ð£×=ÌÌÍ@½p¤q ~¼t South Indian Banksq ~ A,  A+33>ð£×=LÌÍEô¤fq ~¾t Ucal Fuel Sys.sq ~ C"™šC!Ùš>ë…?@  BB
+=q ~Àt Ircon Internationalsq ~ B/ÌÍB/  >ë…>LÌÍDÒxöq ~Ât Chembond Chemicalssq ~ Cjó3Ciæf>æff?†ffB\q ~Ät Suven Pharmasq ~ Cý&fCüf>æff@  CbO\q ~Æt Astralsq ~ E Eˆ >æffA  CõÃq ~Èt JB Chem & Pharmasq ~ Dâ¨ Dá¦f>æffA ÌÍC
+—
+q ~Êt Burger King Indiasq ~ C4ÙšC4Í>áG®?LÌÍEšq ~Ìt IRCTCsq ~ E´ÍEš>áG®A#33DYÞ¸q ~Ît Kayasq ~ CöùšCõæf>áG®@	™šAÜ(öq ~Ðt Grasim Industriessq ~ DÁë3DÁ3>áG®@Ø  DŒË×q ~Òt Barak Valley Cementssq ~ A¸ffA·™š>áG®=ÌÌÍ@Ú\q ~Ôt 
+Bata indiasq ~ DÊffDÉˆ >Ü(ö@ÞffC×:áq ~Öt United Spiritssq ~ D 0 D€ >Ü(ö@0  D‘ªáq ~Øt Ganges Securitiessq ~ Bº³3B¹æf>Ü(ö>ÌÌÍ@éë…q ~Út Mishra Dhatu Nigamsq ~ C=™šC<ÌÍ>×
+=?LÌÍC»¾¸q ~Üt Care Ratingssq ~ D5‰šD4Æf>×
+=@C33C‰ü)q ~Þt Rajesh Exportssq ~ DüÍDVf>×
+=@&ffCšq ~àt Advani Hotel&Resortssq ~ B‘  Bff>×
+=>™™šA4  q ~ât Kamat Hotels (India)sq ~ BC33BBff>Ñë…>LÌÍBúáq ~ät IDBIsq ~ BÌÍB33>ÌÌÍ>™šF3q ~æt Vardhman Textilessq ~ Dî´ÍDíÄÍ>Ç®@ð  C>uÃq ~èt Supreme Petrochemsq ~ D3¬ÍD2ùš>Ç®@333A•
+=q ~êt 	DIC Indiasq ~ Cô³3CóÀ >Ç®?ó33@{…q ~ìt Stove Kraftsq ~ DA<ÍD@|Í>Ç®@@  DXRq ~ît Uflexsq ~ Dp Déš>Ç®@ffC‰÷
+q ~ðt Amber Enterprisessq ~ E:û3E:C3>Ç®A8  B\)q ~òt TV18 Broadcastsq ~ B33B™š>Ç®>™šEÂáÃq ~ôt Mangalam Drugs&Org.sq ~ C8@ C7ŒÍ>Â\?333C)®q ~öt Sanghi Industriessq ~ B„  Bƒ€ >Â\>€  DHz=q ~øt Schaeffler Indiasq ~ EÖzfEÕ¬f>Â\AÎ  A¬Qìq ~út Aarti Drugssq ~ D&ÙšD&9š>Â\@   CŽÕÃq ~üt Alphageo Indiasq ~ C™¬ÍC™š>Â\?“33BÌÍq ~þt Sundaram Fin. Holdsq ~ B € BŸæf>Â\>™™šD'Öfq ~ t Goldstone Technologysq ~ AVffAU™š>½p¤=LÌÍBh{q ~t Future Enter.-B-DVRsq ~ AVffAU™š>½p¤=LÌÍA×¸q ~t Polyplex Corporationsq ~ D¼ffD»¸ >¸Qì@®ffBeÂq ~t Asian Hotels (East)sq ~ CB¦fCAó3>¸Qì?333@øQìq ~t Allsec Tech.sq ~ CØ  C×Ùš>¸Qì?ÆffA*\q ~
+t Tata Motorssq ~ C’ùšC’s3>¸Qì?†ffFîû8q ~t DB Intnl.StockBrokersq ~ AbffAa™š>³33=LÌÍA˜õÃq ~t Sonata Softwaresq ~ DAšD@lÍ>³33@,ÌÍCK  q ~t Oswal Greentechsq ~ Aå™šAäÌÍ>³33=ÌÌÍCy¸q ~t Larsen & Toubrosq ~ DÈ.fDÇ€ >®{@®ffE‰q ~t Mohit Industriessq ~ Ap  Ao33>¨õÃ=LÌÍA\ÌÍq ~t GR Infraprojectssq ~ DØ‰šD×Ó3>¨õÃ@¶ffB²€ q ~t Triveni Turbinesq ~ Bô€ Bó³3>¨õÃ>ÌÌÍCºáq ~t 
+Prism Johnsonsq ~ C	ó3C	€ >¨õÃ>æffD
+Ffq ~t Astra Microwave Prodsq ~ C+33C*¦f>£×
+?ÌÍDÎ¸q ~t 
+Tips Inds.sq ~ D¦H D¥À >£×
+@ˆ  @Åp¤q ~ t Niraj Cement Struct.sq ~ B=™šB=  >£×
+>™šAg…q ~"t 3P Land Holdingssq ~ A€ÌÍA€ff>ž¸R=LÌÍA £×q ~$t Foseco Indiasq ~ DÈæfDÈH >ž¸R@žff@ÈõÃq ~&t Websol Energy Systemsq ~ Bƒ33B‚ÌÍ>ž¸R>LÌÍC¿¸q ~(t 
+Aries Agrosq ~ C*ÍC)ŒÍ>”zá?   BÂ  q ~*t Brooks Laboratoriessq ~ B±™šB±š>\)>€  AˆQìq ~,t 	PNB Giltssq ~ BLÍBæf>\)>LÌÍC	záq ~.t Axiscades Tech.sq ~ B¹æfB¹ff>Š=q>€  Bo  q ~0t Alankitsq ~ A—™šA—33>…¸=LÌÍDŒj=q ~2t 
+Bal Pharmasq ~ B¾šB½™š>…¸>€  Arffq ~4t 	Blue Starsq ~ DR¼ÍDR0 >…¸@ÌÍB#G®q ~6t BPLsq ~ B  B™š>…¸=ÌÌÍCÊ=q ~8t PNBsq ~ B  B™š>€  =ÌÌÍG2O6q ~:t 
+Gabriel Indiasq ~ CffCÍ>€  >³33DœÍq ~<t Bhartiya Internatl.sq ~ Cf€ Ceó3>uÂ?ÌÍ@P£×q ~>t Oriental Aromaticssq ~ Dg)šDfœÍ>uÂ@ÌÍA+
+=q ~@t JBM Autosq ~ Cò³3Cò  >uÂ?“33B„½qq ~Bt The United Nilgirisq ~ CÓ9šCÒ¹š>uÂ?€  AAÂq ~Dt 	SKF Indiasq ~ E3«3E3>f>uÂ@Ù™šB33q ~Ft Boschsq ~ Fiá FiU3>k…BÌÍB<\)q ~Ht Tokyo Plast Intl.sq ~ BØ³3BØ33>k…>€  A
+=q ~Jt MRFsq ~ GœºG›¶À>k…C5ó3A¸q ~Lt Kapston Facilitiessq ~ B±  B°™š>k…>LÌÍ>…¸q ~Nt Cochin Shipyardsq ~ C¼YšC»ìÍ>k…?Y™šC9šq ~Pt GE Power Indiasq ~ C¦S3C¥ó3>k…?@  Cnq ~Rt Kaveri Seedsq ~ D3ùšD3“3>aG®?ÌÌÍC@LÍq ~Tt Allied Digital Serv.sq ~ B  BŒ³3>W
+=>™šCúÃq ~Vt HDFC Life Insurancesq ~ D&3D%©š>W
+=?³33E%)q ~Xt Karur Vysya Banksq ~ BBÌÍBBff>W
+==ÌÌÍE_,¤q ~Zt Shree Pushkar Chemsq ~ C,ffC,Í>LÌÍ>³33BÉ×
+q ~\t Tata Invest Corpsq ~ D33Déš>LÌÍ@33A¾¸Rq ~^t RPG Life Sciencessq ~ Cþ¬ÍCþ,Í>LÌÍ?€  C<Qìq ~`t OMDCsq ~ E>¹šE>\Í>B\@¹™šA0ÌÍq ~bt Jubilant Ingreviasq ~ DS3DÍ>B\?ŒÌÍD²½q ~dt Worth Peripheralssq ~ BÙ33BØÌÍ>8Qì>LÌÍA¾(öq ~ft KDDLsq ~ C·@ C¶ìÍ>8Qì?&ff@   q ~ht Birla Tyressq ~ Aç33AæÌÍ>.{=LÌÍD
+²q ~jt 
+Dalmia Bharatsq ~ E±šEvf>.{@lÌÍC'W
+q ~lt Finolex Indssq ~ C1  C0³3>.{>™™šD¾¸q ~nt ICICI Securitiessq ~ D5@ D4öf>#×
+?“33CœÀ q ~pt Jindal Drilling&Indssq ~ C¦fCs3>™š>LÌÍBG×
+q ~rt Sudarshan Chemicalssq ~ D:|ÍD:6f>™š?ŒÌÍBìÑìq ~tt Indian Banksq ~ C  C
+ÌÍ>\)>LÌÍD» Rq ~vt RS Software (India)sq ~ B  BÌÍ>\)=LÌÍB,Qìq ~xt Tourism Finance Corpsq ~ B“  B’ÌÍ>\)=ÌÌÍC…úáq ~zt Srikalahasthi Pipessq ~ CišChÌÍ>¸>™™šD(öq ~|t Mrs.Bectors Foodsq ~ CÖs3CÖ,Í>¸?ÌÍC
+®q ~~t Kirloskar Brotherssq ~ CÖà CÖ™š>¸?ÌÍ@ã×
+q ~€t Symphonysq ~ DkvfDk,Í=õÂ?“33B´½qq ~‚t Unichem Labsq ~ C¦™šC¦ff=õÂ>ÌÌÍB8õÃq ~„t Jubilant Pharmovasq ~ D+¦fD+s3=õÂ?LÌÍCt¸Rq ~†t 	Info Edgesq ~ E¢öfE¢Ç3=áG®@¼ÌÍCÞ5Ãq ~ˆt 
+Shoppers Stopsq ~ C…™šC…s3=áG®>™™šDŒ
+q ~Št 
+Goa Carbonsq ~ CÐùšCÐÀ =áG®>æffB@®q ~Œt Prataap Snackssq ~ D6C3D63=ÌÌÍ?@  As33q ~Žt 
+V-Guard Inds.sq ~ Cy  CxÀ =ÌÌÍ>€  EFq ~t 
+PI Industriessq ~ E8c3E84 =ÌÌÍ@<ÌÍD£×q ~’t AIA Engineeringsq ~ DúfDùÖf=ÌÌÍ@   Azáq ~”t Savita Oil Techsq ~ D¸Ë3D¸œÍ=ÌÌÍ?¹™šAã…q ~–t Godrej Consumer Prodsq ~ Dvó3Dv¶f=ÌÌÍ?s33D}Ð q ~˜t IDFC First Banksq ~ BP  BOÌÍ=ÌÌÍ=LÌÍFÕÏq ~št Dishman Carbogen Amcsq ~ CQ@ CQÍ=ÌÌÍ>LÌÍDŠ=q ~œt CESCsq ~ DQ³3DQ€ =ÌÌÍ?LÌÍC„Qìq ~žt 
+UFO Moviezsq ~ BÓ™šBÓff=¸Qì=ÌÌÍDG&fq ~ t HLE Glascoatsq ~ EW%šEVòf=¸Qì@LÌÍ@Ñë…q ~¢t India Hume Pipesq ~ CfÙšCf¦f=¸Qì>LÌÍBnÂq ~¤t 
+Eicher Motorssq ~ E$ Ef=£×
+@ffDŽ¸q ~¦t Thomas Cook (India)sq ~ Bw™šBwff=£×
+=LÌÍC_Þ¸q ~¨t Dangee Dumssq ~ C:šC9ó3=£×
+>™šAyp¤q ~ªt Prince Pipes & Fittisq ~ D+0 D+Í=£×
+?ÌÍC[ã×q ~¬t Deccan Cementssq ~ D66fD63=£×
+?ÌÍBKë…q ~®t SAILsq ~ CÍC
+ó3=\)=ÌÌÍG£—Hq ~°t Gulf Oil Lubricantsq ~ D"P D"33=\)>æffBÌÍq ~²t Indus Towerssq ~ C^šC]ó3=\)>™šEå•…q ~´t Neuland Laboratoriessq ~ Dø†fDø^f=uÂ?   AµÂq ~¶t ITD Cementationsq ~ B«ffB«LÍ=uÂ=LÌÍD	Vfq ~¸t Hindustan Media Ventsq ~ B®LÍB®33=uÂ=LÌÍBÿLÍq ~ºt Garware Tech. Fibressq ~ EXfEXf=#×
+?À  A\£×q ~¼t United Drilling Toolsq ~ CµYšCµFf=#×
+>™šA¼{q ~¾t Piramal Enterprisessq ~ EéšEÛ3=#×
+?fffD,ˆöq ~Àt TV Today Networksq ~ C’lÍC’` <õÂ=ÌÌÍB¶Ñìq ~Ât MP Bharat Agro Prodsq ~ Cs3Cff<õÂ=LÌÍA_
+=q ~Ät ICRAsq ~ Ej™šEj…š<õÂ?   Ac33q ~Æt Ahluwalia Contract(Isq ~ CÃ¦fCÃ™š<õÂ=ÌÌÍB.£×q ~Èt Maan Aluminiumsq ~ CÅ™šCÅŒÍ<õÂ=ÌÌÍAºffq ~Êx sq ~ 	    w    xsq ~ 	    w    xq ~ t yutisq ~ @¯@     sq ~ 	    w    xt jhgft lllsq ~ 
+sq ~  ?@     w     ]t Vidhi Specialty Foodsq ~ C§†fC‹ìÍAÂB\ÌÍD¡¿
+q ~Õt Privi Speciality Chesq ~ DÆ‘šD¦fAœÌÍC‚,ÍD_Yšq ~×t TPL Plastechsq ~ C«æfC–,ÍAg…B-ÌÍDÎ¸q ~Ùt The Investment Trustsq ~ Bö€ BÙffAV=qAhÌÍCn.q ~Ût Indian Metal & Ferrosq ~ Dl9šDRFfAEp¤BÏ™šD`¹šq ~Ýt HILsq ~ EÇÚfE²ÄÍA<£×D(¬ÍC*Âq ~ßt Salona Cotspinsq ~ Cdó3CMÍA:\A¿33CW«…q ~át R Systems Intl.sq ~ CLó3C7ó3A6¸RA¨  DÔÒáq ~ãt Mahindra Logisticssq ~ D;šD'ð A6\B™LÍE(qq ~åt Asahi Songwon Colorssq ~ CÎyšCº&fA.¸RB"™šC±†fq ~çt 
+Shanthi Gearssq ~ C>æfC,ŒÍA*{A’ÌÍE^¨¤q ~ét Sun Pharma Adv. Ressq ~ C‡¬ÍCus3A(ÌÍAÏ33FRæ¤q ~ët Sun Pharma Inds.sq ~ DA|ÍD/À A!p¤BæfG5¶q ~ít Golden Tobaccosq ~ B¤€ B•™šA\)@îffD˜Rq ~ït Nahar Capital &Finl.sq ~ Cœ  CæfA
+=Aá™šC’.q ~ñt Onelife Capitalsq ~ AC33A1™šA\?ŒÌÍ@à£×q ~ót HLVsq ~ A!™šA33Azá?fffD	#×q ~õt Sintercom Indiasq ~ BÀ³3B°ffA×
+AffDÐ q ~÷t SRFsq ~ FJÍE÷Ý3A¸RD5Ã3D¢Îfq ~ùt IIFL Wealth Mgment.sq ~ D°išD¢	šA
+ë…Bæ  CeÌÍq ~ût Shree Rama Newssq ~ AÅ™šA¶  A	¸?ù™šDÆb=q ~ýt TeamLease Servicessq ~ E…"fEu” AáHC¥†fCe¸Rq ~ÿt Pioneer Embroideriessq ~ B•ÌÍB‹33@ó…@©™šE=ŒÍq ~t KSBsq ~ Dã3D†©š@òáHB£™šDuq ~t Jullundur Motor Agensq ~ B‹æfB‚33@îff@›33CnÞ¸q ~t Max Healthcare Instsq ~ C”9šCŠš@ê\A¢  ED¦fq ~t Deepak Nitritesq ~ DþæfDí›3@èõÃC
+YšEÖÉHq ~	t 
+Tech Mahindrasq ~ D—1šDŒùš@è  B£€ FŸ’q ~t Summit Securitiessq ~ D0ð D%,Í@ã×
+B<33B*®q ~
+t Dynemic Productssq ~ D33Dã3@àQìB  Cøc×q ~t Kothari Petrochemsq ~ B8  B,™š@Ó33@6ffD±5q ~t Shivalik Bimetalsq ~ C  Bù™š@Ò=qA33B\q ~t Bhagyanagar Propertsq ~ AøÌÍAé™š@ÐQì?ó33C„Èöq ~t Precision Camshaftssq ~ BÚ  BÌÌÍ@Îff@Ó33DT)q ~t Sun TV Networksq ~ DæfDIš@Ê=qB	ÌÍF.\q ~t Asahi India Glasssq ~ C¿€ C´@ @Ç®A´  EQ@¤q ~t Emami Paper Millssq ~ C8s3C-³3@Æ{A,  D~q ~t Coromandel Interntl.sq ~ De€ DX  @Æ{BV  DÞÃq ~t 
+Quess Corpsq ~ DYVfDL° @ÅÂBJffD­
+q ~!t Elgi Rubber Co.sq ~ B(ÌÍB  @Å¸@ÌÍD˜)ìq ~#t Rane Engine Valvesq ~ C¬†fC¢“3@Ã×
+AŸ33Ct¸q ~%t Home First Financesq ~ D	šD
+c3@Ã×
+B
+ffD"qq ~'t Cerebra Integ. Techsq ~ BsÌÍBeÌÍ@ÂáH@`  D÷ìq ~)t NR Agarwal Indssq ~ C @ C—3@Â=qA’ÌÍDtÜÍq ~+t 
+Ashok Leylandsq ~ CÌÍBúff@Â=q@ó33G˜üaq ~-t Intellect Designsq ~ D:æfD0Vf@¿®B)  DX(Rq ~/t Laurus Labssq ~ D ` DYš@¾¸RBffF$…q ~1t Fert Chem Travancoresq ~ C
+ÍC&f@½Â@üÌÍEK{q ~3t Visagar Polytexsq ~ ?fff?Y™š@¼(ö=LÌÍF†B½q ~5t Godrej Agrovetsq ~ D.LÍD$¦f@»…BffD¨“…q ~7t AMJ Land Holdingssq ~ B™šB™š@»…@   CÇ“3q ~9t MRO-TEK Realtysq ~ B
+ÌÍB33@¹G®?ó33@¸£×q ~;t JK Tyres & Inds.sq ~ CffCÀ @®{@ôÌÍEV¬Rq ~=t Fairchem Organicssq ~ DÛÞfDÐ“3@­¸B´³3Cúáq ~?t Sundaram BrakeLiningsq ~ CçS3CÛs3@­¸A¾  B®¸q ~At NACL Industriessq ~ B£šBšÌÍ@«…@„ÌÍCÂLÍq ~Ct Cineline Indiasq ~ Bx33Bk™š@«33@I™šEQ¡Ãq ~Et 
+Mahanagar Gassq ~ D‘ë3DŠ™š@¨õÃBj33D·Îq ~Gt Madras Fertilizerssq ~ BffAø  @¥¸?ÌÌÍDªq ~It Take Solutionssq ~ B}33BpÌÍ@¤ÌÍ@FffEH\q ~Kt UTI Asset Managementsq ~ D‚8 Dwæf@¡ë…BH™šDˆ
+q ~Mt Hind Oil Explorationsq ~ Bû€ Bïff@¡™š@Á™šEpO…q ~Ot Lambodhara Textilessq ~ BÍÌÍBÄ  @   @œÌÍBIÌÍq ~Qt 	TV Visionsq ~ @ff@   @   =ÌÌÍCèöq ~St ISMTsq ~ AÚffAÐ  @   ?¦ffB¢½qq ~Ut Celebrity Fashionssq ~ AZffAP  @   ?&ffA»G®q ~Wt 
+Reliance Commsq ~ @I™š@@  @   >™šG3Ž@q ~Yt Deep Energy Res.sq ~ BA33B8  @   @33AâQìq ~[t Lokesh Machinessq ~ B,33B$  @   @33A¿33q ~]t Sumeet Indssq ~ A33A  @   >æffBåž¸q ~_t Rajratan Global Wiresq ~ Eð E
+ØÍ@   BâæfA›™šq ~at Nureca Ltd.sq ~ D×  DÍ\Í@   B¤33AÄ¸Rq ~ct Shriram Pistons & Ringssq ~ D‹8 D„˜ @   BT  @ÍÂq ~et KPI Globa Infrastruesq ~ C€ C š@   @ÌÌÍD;…q ~gt Venus Remediessq ~ CéÌÍCÞ¬Í@   A²  B®q ~it Inox Wind Energysq ~ DNLÍDD|Í@Ÿ®B  A(öq ~kt Tejas Networkssq ~ C€FfCtYš@Ÿ®AC33B8£×q ~mt 
+NK Industriessq ~ AÚÌÍAÐff@Ÿ®?¦ff@
+áHq ~ot Agri-Tech (India)sq ~ B=ffB4ff@Ÿ®@  B)33q ~qt 
+Madhav Coppersq ~ B$33Bff@Ÿ®?ù™šCh®q ~st IZMOsq ~ CšCYš@Ÿ®@Ø  B…q ~ut ICDSsq ~ BÌÍBff@Ÿ®?ìÌÍ?záHq ~wt Arrow Greentechsq ~ C€ Cff@Ÿ®@ã33@Û33q ~yt Goodluck Indiasq ~ C¹šCˆæf@Ÿ®AZffDP q ~{t Cambridge Tech Entersq ~ B³  Bª€ @Ÿ®@ˆ  CY…q ~}t Omkar SpecialityChemsq ~ A33Aˆff@Ÿ®?Y™šAffq ~t Zuari Agro Chemicalssq ~ CæfCff@Ÿ\)@Ð  BW  q ~t Olectra Greentechsq ~ C—¬ÍCyš@Ÿ\)AfffDaAHq ~ƒt Tirupati Forgesq ~ B“€ BŒ€ @Ÿ\)@`  @Ñ™šq ~…t Hexa Tradexsq ~ Bÿ  Bòæf@Ÿ\)@Á™š@ÌÌÍq ~‡t Tata Teleservice(Mahsq ~ BÌÍB™š@Ÿ\)?æffC³q ~‰t Hubtownsq ~ BÌÍB™š@Ÿ\)?æffB<záq ~‹t Airansq ~ AÊffAÀÌÍ@Ÿ\)?™™šBdp¤q ~t Guj Raffia Indssq ~ B™šB™š@Ÿ\)?à  B=qq ~t Genesys Intl. Corpnsq ~ C  C¦f@Ÿ\)@ë33AÂÌÍq ~‘t Everest Kanto Cylindsq ~ B½ÌÍB´ÌÍ@Ÿ\)@  B¾”{q ~“t Rama Steel Tubessq ~ C4YšC+ÌÍ@Ÿ\)AÌÍC"!Hq ~•t Oricon Enterprisessq ~ BÌÍAù33@Ÿ\)?ÆffC±ìq ~—t Jai Balaji Indssq ~ B‡ffB  @ž¸R@LÌÍCálÍq ~™t Touchwood Entertainmsq ~ BÞ33BÓ³3@ž¸R@¨  Bi¸Rq ~›t BSLsq ~ B’šB‹33@ž¸R@\ÌÍBÔŠ=q ~t 	Beardsellsq ~ A‡™šA33@žff?LÌÍBn…q ~Ÿt RattanIndia Entsq ~ B…™šB~™š@žff@I™šE• q ~¡t 	Cinevistasq ~ Am™šAbff@žff?333A·p¤q ~£t 	Lyka Labssq ~ BŸ33B—³3@ž{@p  D/z=q ~¥t DCMsq ~ B\ÌÍBRff@ž{@&ffAº{q ~§t 
+Autoline Indssq ~ BŠ  Bƒ€ @ž{@P  Bä…q ~©t 
+CL Educatesq ~ CYšCÙš@ž{@ð  C+(öq ~«t 
+Visa Steelsq ~ AL  ABff@ž{?™šAýp¤q ~­t Ortin Laboratoriessq ~ BffBÌÍ@Â?Ó33B´ffq ~¯t California Softwaresq ~ AnffAc33@Â?333@äzáq ~±t JITF Infralogisticssq ~ Aæ  AÛ33@Â?¬ÌÍB(öq ~³t Khaitan Chem & Fert.sq ~ B—€ Bff@p¤@c33Cõ•Ãq ~µt Megasoftsq ~ Ao33Ad  @¸?333Ca½qq ~·t Karma Energysq ~ Aç33AÜff@œÌÍ?¬ÌÍ@ß®q ~¹t Equippp Socialsq ~ AM™šAD  @œÌÍ?™š?Ç®q ~»t Nagreeka Exportssq ~ B™šB33@œzá?ìÌÍB5p¤q ~½t National Steel &Agrosq ~ @‰™š@ƒ33@œ(ö>LÌÍ@ÈõÃq ~¿t Adroit Infotechsq ~ A	™šA33@œ(ö>ÌÌÍ@¦ffq ~Át SKIL Infrastructuresq ~ @‰™š@ƒ33@œ(ö>LÌÍBÈõÃq ~Ãt Andhra Cementssq ~ B  Aö  @œ(ö?À  DÙÔÍq ~Åt Surana Solarsq ~ ANffADÌÍ@œ(ö?™šB­¸q ~Çt Prajay Engg.Syndicatsq ~ A×33AÍ33@›×
+?   B§½qq ~Ét Flexituff Venturessq ~ A¬ffA¤ff@›×
+?€  A°¸Rq ~Ët Panache Digilifesq ~ B’™šB‹ÌÍ@›…@Y™šAÂáHq ~Ít JBF Industriessq ~ BÌÍAÿ33@›…?ÆffCñhöq ~Ït IL&FS Investment Mgrsq ~ A
+ffA  @›33>ÌÌÍD·Eqq ~Ñt RattanIndia Powersq ~ @Ð  @Æff@šáH>™™šEëáq ~Ót Century Extrusionssq ~ A  AÌÍ@šáH>æffD“˜¤q ~Õt Zuari Globalsq ~ C@ Có3@šáH@é™šB°Bq ~×t TN Telecommunicationsq ~ AŠÌÍA„ff@š\?LÌÍ@î{q ~Ùt Rolta Indiasq ~ @ó33@è  @š\>³33C˜:áq ~Ût Tridentsq ~ A¥33A™š@š=q?s33Gbj_q ~Ýt Shreyas Shippingsq ~ Ca  CV¦f@š=qA%™šC&…q ~ßt Arihant Superstruct.sq ~ BÁ€ B¸™š@š=q@ŽffC=èöq ~át Tarapur Transformerssq ~ @®ff@¦ff@™ë…>€  BÂLÍq ~ãt Surana Telecomsq ~ @Ñ™š@È  @™™š>™™šBêŠ=q ~åt Seamecsq ~ D€ D“3@™G®AÝ™šCÍq ~çt Reliance Powersq ~ A@ÌÍA8  @˜õÃ?ÌÍFÓfq ~ét Lakshmi Machine Worksq ~ Fç3F Á3@˜õÃCÄÀ B/¸Rq ~ët FCS Software Soltns.sq ~ @ÌÍ@ff@˜Qì=ÌÌÍF50×q ~ít Ankit Metal & Powersq ~ @ÌÍ@ff@˜Qì=ÌÌÍCŠ=q ~ït Jaypee Infratechsq ~ @ÌÍ@ff@˜Qì=ÌÌÍF="\q ~ñt BLBsq ~ AS33AI™š@˜Qì?™šB‡Âq ~ót Solar Industriessq ~ DÕšDËk3@˜QìBšæfC¥ª=q ~õt Reliance Infrasq ~ B™šB’33@—
+=@\ÌÍD¬S3q ~÷t Magnum Venturessq ~ A   AÌÍ@–¸R>æffB­záq ~ùt Country Condo'ssq ~ @Vff@LÌÍ@–{>™šB»q ~ût Kaushalya Infra Devsq ~ @Vff@LÌÍ@–{>™šA°£×q ~ýt 
+S.E. Powersq ~ A33AÌÍ@•Â>ÌÌÍBÈáHq ~ÿt 
+SAL Steelssq ~ AhÌÍA^ff@•Â?&ffDNJ=q ~t Digicontentsq ~ AhÌÍA^ff@•Â?&ffA`  q ~t Shree RamaMulti-Techsq ~ A|ÌÍAq™š@”zá?333C¤¬Íq ~t Nagreeka Cap & Infrasq ~ @üÌÍ@ñ™š@”zá>³33A%¸q ~t Nagarjuna Fertilizersq ~ Aˆ  A‚  @“×
+?@  D”Þfq ~	t 
+Lloyds Steelssq ~ @Y™š@P  @“×
+>™šDÝ¶¸q ~t Reliance Capitalsq ~ A‘33AŠÌÍ@“…?LÌÍE5šq ~
+t 
+Patspin Indiasq ~ AH  A?33@“33?ÌÍB6{q ~t Vedantasq ~ C–ìÍCLÍ@’áHAT  G6nq ~t Digispice Technologsq ~ B’šB‹³3@’\@LÌÍD'
+q ~t J Kumar Infraprojectsq ~ C\™šCRó3@’=qAffCäAHq ~t Prozone Intu Propertsq ~ B	™šB™š@‘ë…?À  DªW\q ~t Khadim Indiasq ~ C’ÙšCŒs3@‘ë…ALÌÍBÈ.q ~t Marine Electricalssq ~ BN™šBE™š@‘™š@  Ež–öq ~t Sundaram Multi Papsq ~ @33@ÌÍ@‘™š=ÌÌÍDµq ~t Compuage Infocomsq ~ Aï™šAå33@‘G®?¦ffD¹êq ~t HB Stockholdingssq ~ AË™šAÂÌÍ@£×?ŒÌÍA¯\)q ~!t 
+Aarti Indssq ~ Di³3D_™š@£×B!™šDî8Rq ~#t Abbott Indiasq ~ F”‰€FŽ#æ@  DL³3AÃ\)q ~%t Entertain. Networksq ~ CQ&fCH33@
+=A33DÃq ~'t 
+Xpro Indiasq ~ C &fC™LÍ@
+=A[33B×p¤q ~)t HFCLsq ~ B•æfB€ @Ž¸R@LÌÍEËqq ~+t Landmark PropertyDevsq ~ @¼ÌÍ@´ÌÍ@p¤>€  BÔ#×q ~-t MSP Steel & Powersq ~ A=™šA5™š@¸?   Cá×q ~/t Linc Pen & Plasticssq ~ CYs3CPLÍ@ŒzáAffB6…q ~1t Nila Spacessq ~ @™š@33@‹33=ÌÌÍC)õÃq ~3t 
+Hi-Tech Gearssq ~ C®fC¦Æf@‹33Ah  Bäúáq ~5t Suvidhaa Infoservesq ~ AÀÌÍA¸ÌÍ@Š\?€  BÖBq ~7t Ahlada Engineerssq ~ CWÌÍCNÙš@Š\A33Cèöq ~9t 	Ind-Swiftsq ~ @è  @Þff@Š=q>™™š?î{q ~;t Hotel Rugbysq ~ @›33@”ÌÍ@‰™š>LÌÍAqG®q ~=t GTLsq ~ A®ÌÍA§™š@‰™š?fffCäBq ~?t Eastern Silk Indssq ~ @i™š@`  @‰G®>™šA€Qìq ~At 
+Shyam Centurysq ~ A}™šAs33@ˆõÃ?&ffEy9q ~Ct Allcargo Logisticssq ~ CE™šC=€ @ˆ£×A™šE ãqq ~Et Hindcon Chemicalssq ~ B•šB  @ˆ£×@C33Bök…q ~Gt Deepak Fert & Petrosq ~ C×yšCÎ¬Í@ˆQìAŒÌÍCÔlÍq ~It Shradha Infraprojectsq ~ B\ffBSff@ˆQì@  ?¢\q ~Kt JP Power Venturessq ~ @œÌÍ@–ff@ˆQì>LÌÍGädNq ~Mt 	PTC Indiasq ~ BÉ€ BÁLÍ@‡®@ƒ33Dyeq ~Ot Century Enkasq ~ CñæfCèš@‡
+=AœÌÍDxþq ~Qt Silly Monks Entert.sq ~ A³33A¬  @†{?fff@LÌÍq ~St Ciplasq ~ Df3D\Æf@…ÂBÌÍEÄBáq ~Ut 	Rupa & Cosq ~ DÜÍCùLÍ@…ÂA¦ÌÍD‘qq ~Wt Kavveri Telecom Prodsq ~ @   @™š@…p¤=ÌÌÍ?G®q ~Yt SCAPDVRsq ~ @   @™š@…p¤=ÌÌÍCuÃq ~[t Escortssq ~ D”3DŽ$Í@„ÌÍB<ÌÍD¬,)q ~]t RCFsq ~ B¨33B¡€ @„ÌÍ@VffF¤q ~_t Banco Products (I)sq ~ C+&fC$Yš@„zá@Ù™šD”ú=q ~at B.L. Kashyap and Sonsq ~ AÊ  AÂ  @ƒ×
+?€  Cük…q ~ct Cera Sanitarywaresq ~ E‹( E…¥š@ƒ×
+C0LÍB¤õÃq ~et 
+Kokuyo Camlinsq ~ B–šB33@‚áH@<ÌÍD«c×q ~gt International Const.sq ~ AÁ™šAº  @‚áH?s33<#×
+q ~it Diligent Media Corpnsq ~ @#33@ÌÍ@‚\=ÌÌÍC‡4{q ~kt SPICsq ~ B™šBu™š@‚=q@   Ei.q ~mt PVP Venturessq ~ @¤ÌÍ@žff@G®>LÌÍBR33q ~ot Oriental Hotelssq ~ B™šBÌÍ@€õÃ?¹™šC7Š=q ~qt Pearl Polymerssq ~ AÌÍA‹33@€£×?333BMõÃq ~st Future Enterprisessq ~ A%™šA33@€£×>ÌÌÍD7¤{q ~ut Aarvee Denims & Exp.sq ~ AÙ™šAÑ33@€£×?†ffBûQìq ~wt Minda Corporationsq ~ C
+ÌÍCs3@€Qì@«33EJíÃq ~yt Munjal Showasq ~ C!À CŒÍ@\)@ÆffD5¤q ~{t Rane Madrassq ~ CÊ†fCÂÌÍ@~{Aw33Ckë…q ~}t Vaibhav Globalsq ~ DOp DG™š@{…AúÌÍD7éšq ~t Ashapura Minechemsq ~ Có3C
+ff@{…@±™šBÙuÃq ~t Burnpur Cementsq ~ @)™š@#33@záH=ÌÌÍBhp¤q ~ƒt Pressman Advertisingsq ~ BÌÍB ÌÍ@xQì?   BÉzáq ~…t Trejhara Solutionssq ~ B†LÍBLÍ@w®@   Ceúáq ~‡t Usha Martin Educatn.sq ~ @™š@y™š@vff>™šA\(öq ~‰t 
+Bank Of Indiasq ~ B”ÌÍBLÍ@uÂ@0  Eˆ	Ãq ~‹t 	Inox Windsq ~ CÙšC¦f@u¸@¦ffD¥@¤q ~t DRC Systems Indiasq ~ CùšCŠ³3@s33A(ÌÍ@Œ(öq ~t Orient Paper & Inds.sq ~ AüffAó33@që…?“33E%J=q ~‘t Religare Enterprisessq ~ C&  Có3@që…@Á™šDæªq ~“t Krishana Phoschemsq ~ C  C	ÌÍ@qG®@¦ffAÏ×
+q ~•t Bharat Dynamicssq ~ CÒfCÊff@qG®At  DÞfq ~—t Palash Securitiessq ~ B¢æfB  @p£×@<ÌÍA3®q ~™t 	LGB Forgesq ~ A™šA ÌÍ@n¸R>™™šC}À q ~›t BKM Industriessq ~ ?³33?¬ÌÍ@lÌÍ=LÌÍC‚q ~t MPSsq ~ D7‰šD1f@k…AÐffBÄÇ®q ~Ÿt TVS Electronicssq ~ CDšC=&f@jáH@ÞffC¬šáq ~¡t 
+Clean Sciencesq ~ DÒ@ DÊÎf@jáHBn33Džü)q ~£t TechIndia Nirmansq ~ @´ÌÍ@®ff@jáH>LÌÍB\)q ~¥t Alkem Laboratoriessq ~ EWÙšEP:f@j=qBóæfC”{q ~§t 
+Best Agrolifesq ~ D
+³3DÐ @i™šAœffBKQìq ~©t Mercatorsq ~ @6ff@0  @hõÃ=ÌÌÍErP)q ~«t Nava Bharat Venturessq ~ Bø€ BïÌÍ@hQì@‹33E	¥Ãq ~­t Kiri Industriessq ~ DìÍDã3@fffA¡33D %Ãq ~¯t Coral India Fin &Hsgsq ~ BO33BH  @fff?æffC¦fq ~±t Amara Raja Batteriessq ~ D3öfD-¶f@fffAÈ  D¼×q ~³t IFCIsq ~ AfffA^ff@fff?   F$
+q ~µt Ajooni Biotechsq ~ Br33BiÌÍ@eÂ@ffCNÇ®q ~·t 
+20 Micronssq ~ B…  B€ff@e¸@33Cüð¤q ~¹t Vipulsq ~ B™šBff@e¸?¦ffB„áHq ~»t Maricosq ~ D¬ÍDöf@dzáA–ÌÍEß'ìq ~½t 
+Phoenix Millssq ~ DWéšDP‰š@b\Aì  CQìq ~¿t Reliance Home Financsq ~ @ŒÌÍ@ˆ  @aë…>™šD§áq ~Át North Eastern Carry.sq ~ A˜ÌÍA“™š@aG®?&ffCØìq ~Ãt Insecticides Indiasq ~ DCæfD=<Í@aG®AÕ33CH³3q ~Åt 	Alps Indssq ~ @<ÌÍ@6ff@`£×=ÌÌÍAp¤q ~Çt Ujaas Energysq ~ @<ÌÍ@6ff@`£×=ÌÌÍD›2=q ~Ét Bharat Gearssq ~ Bù€ Bñš@^¸R@†ffCæ:áq ~Ët KIOCLsq ~ C”À CÆf@]p¤A33Cÿbq ~Ít SH Kelkar & Cosq ~ C)s3C#æf@XõÃ@±™šCž¸q ~Ït Crompt.Greaves Cons.sq ~ CóŒÍCë“3@XõÃA33Dµqq ~Ñt National Fertilizerssq ~ B€LÍBx33@XQì@ffEÞ~Rq ~Ót Aptechsq ~ CfC‹S3@W®AffD—ß\q ~Õt Phillips CarbonBlacksq ~ C‡À CƒYš@VffAÌÍE‡‰…q ~×t GSFCsq ~ Bô€ Bì™š@UÂ@|ÌÍF»Ãq ~Ùt Prakash Steelagesq ~ ?Æff?À  @U¸=LÌÍCÅq ~Ût Century Textile &Indsq ~ DFð D@ŒÍ@TzáAÌffDÕÇ\q ~Ýt Simbhaoli Sugarssq ~ B™šBÌÍ@S×
+?™™šC!Hq ~ßt Max Ventures & Indsq ~ B»šBµš@S×
+@@  D•( q ~át Apollo Tyressq ~ C_s3CXLÍ@S×
+@äÌÍE´<=q ~ãt Aster DM Healthcaresq ~ C#ffC@ @P  @¤ÌÍDç\q ~åt Cyber Media (I)sq ~ AK33ADÌÍ@P  >ÌÌÍA.¸Rq ~çt Monte Carlo Fashionssq ~ C¼s3C¶“3@N{A<  CåË…q ~ét FDCsq ~ CºšC´Yš@L(öA8  CŸâq ~ët 
+De Nora Indiasq ~ C½s3C·¦f@J=qA9™šBJffq ~ít Sanofi Indiasq ~ FfEý'3@I™šC33BX\)q ~ït Neyveli Lignitesq ~ Bm33Bf  @HQì?æffE„MÃq ~ñt Archidply Decorsq ~ B™šB
+33@G®?ŒÌÍA	™šq ~ót 	TVS Motorsq ~ DÓ3Dvf@G
+=A‹™šFm\q ~õt Ambika Cotton Millssq ~ DÄašD¾€ @EÂB<33BùG®q ~÷t Selan Exploratn Techsq ~ CÌÍC€ @E¸@‰™šBó=qq ~ùt 
+RHI Magnesitasq ~ C¯“3CªS3@E¸A(  C‹ÕÃq ~ût Time Technoplastsq ~ B¤€ BŸ™š@Dzá@ÌÍDLq ~ýt Ratnamani Metalssq ~ E&fE+3@C×
+B~ÌÍC50¤q ~ÿt Sanghvi Moverssq ~ CHÌÍCBÙš@C33@¾ffBè™šq ~	t Technocraft Indssq ~ D)ÆfD$À @C33A ÌÍBþ¸Rq ~	t Pritish Nandy Commsq ~ BÌÍB33@B\?“33AàáHq ~	t 
+Siti Networkssq ~ ?Ù™š?Ó33@Aë…=LÌÍE¿q ~	t Jindal Hisarsq ~ C“lÍCš@AG®A
+ffEW®q ~		t GATIsq ~ C#æfCš@AG®@™™šDÄšáq ~	t Hilton Metal Forgingsq ~ A\ÌÍAVff@?\)>ÌÌÍBQìq ~	
+t Endurance Techsq ~ DØ€ DÒ;3@>¸RBH™šC2èöq ~	t Refex Industriessq ~ CŒÍC€ @>{@™šCCxRq ~	t Whirlpool Of Indiasq ~ E	¯3E¾f@<ÌÍB|33B¨LÍq ~	t Sri Havisha Hospitalsq ~ ?à  ?Ù™š@<(ö=LÌÍBú(öq ~	t Shreniksq ~ ?à  ?Ù™š@<(ö=LÌÍF
+`öq ~	t SIL Investmentssq ~ C¥¹šC¡  @;…A33?.{q ~	t Sterling Toolssq ~ Cws3Cpff@;…@á™šCÔ\)q ~	t Jagsonpal Pharmasq ~ C3YšC.@ @;…@£33C)q ~	t Jamna Auto Inds.sq ~ B³³3B®™š@:áH@#33D”[×q ~	t Synergy Green Inds.sq ~ C@³3C;@ @:=q@®ffBýáHq ~	!t IRB Infra.&Developersq ~ C$YšCÀ @8Qì@“33E%bq ~	#t Balkrishna Inds.sq ~ E]šE8 @8QìB„³3DÍq ~	%t eClerx Servicessq ~ ET Eh @8QìB{  AªQìq ~	't PVRsq ~ D¯fDª)š@7
+=B™šDõáq ~	)t Viji Financesq ~ ?æff?à  @7
+==LÌÍCÀáq ~	+t Future Supply Chainsq ~ B£³3BŸ33@5¸@  BW  q ~	-t Puravankarasq ~ BÛÌÍBÕÌÍ@3×
+@@  D}_\q ~	/t 
+Prakash Pipessq ~ C/æfC+&f@1ë…@˜  Cíj=q ~	1t Kirloskar Oil Engsq ~ CxYšCq¦f@1G®@ÖffC~°¤q ~	3t Keerti Knowledgesq ~ A£™šAŸ33@0£×?ÌÍA	™šq ~	5t Tanla Platformssq ~ DnP Dgéš@0£×AÌÌÍC…q ~	7t Dabur Indiasq ~ D,ÍD&f@0  A€ÌÍED”öq ~	9t La Opala R Gsq ~ C‹†fC‡ÌÍ@/\)@îffC‘33q ~	;t Sagardeep Alloyssq ~ B“™šB³3@-p¤?ù™šC533q ~	=t Voltassq ~ D„ffD€è @-p¤Aß™šD›Ùšq ~	?t Apollo Pipessq ~ D•fD‘)š@,ÌÍAû33BÁæfq ~	At Intrasoft Techsq ~ Bä33BÞ33@,ÌÍ@@  Bi\)q ~	Ct Neogen Chemicalssq ~ DdüÍD_  @+…A¿™šBQìq ~	Et Glenmark Pharmasq ~ DÜÍDæf@+…A}™šE®q ~	Gt Arihant Foundn. &Hsgsq ~ A×™šAÒ  @*áH?333A¨ÌÍq ~	It Power Mech Projectssq ~ DL  DF¶f@*=qA©33B,33q ~	Kt Amrutanjan Healthcarsq ~ D*¹šD&P @)™šA33BáHq ~	Mt 
+Mukta Artssq ~ B#33B  @(õÃ?†ffB¡Âq ~	Ot AJR Infra and Tollsq ~ ?ù™š?ó33@(Qì=LÌÍET–áq ~	Qt NDR Auto Componentssq ~ C¸¹šC´  @'®A33A›\)q ~	St Novartissq ~ Dp³3Dj @'®AÄffB*
+=q ~	Ut NESCOsq ~ D\ÍD|Í@'
+=Ax  Búáq ~	Wt Pitti Engineeringsq ~ CC&fC>33@&ff@žffCº]qq ~	Yt Radico Khaitansq ~ DaÆfD\Í@$záAµ33Dž¹Hq ~	[t 
+Neueon Towerssq ~ @   ?ù™š@#×
+=LÌÍ@p¤q ~	]t 
+Exide Indssq ~ C2¦fC.33@#33@ŽffEÐ
+ q ~	_t MM Forgingssq ~ D?#3D:c3@#33A˜  A\)q ~	at Eris Lifesciencessq ~ DE° D@Éš@"\AœÌÍD}ƒ3q ~	ct 	JK Cementsq ~ EK²fEF¦f@"\B¡€ B’Ç®q ~	et Repro Indiasq ~ C´ó3C°€ @!G®AffBO=qq ~	gt Navneet Educationsq ~ BÇffBÂ€ @!G®@ÌÍDú¯®q ~	it Renaissance Globalsq ~ D)šDLÍ@   Aw33B uÃq ~	kt Godha Cabcon&Insulatsq ~ B$  B   @   ?€  ?
+=q ~	mt TGB Banquetssq ~ A33A   @   >LÌÍA…ë…q ~	ot Mindtreesq ~ E33E.¸ @\)B‹ffDÇuq ~	qt Future Consumersq ~ A  A ÌÍ@¸R>LÌÍEÌ’áq ~	st Shriram City Unionsq ~ DèdÍDâÃ3@¸RB433Bêž¸q ~	ut Cadila Healthcaresq ~ D†fD  @{Aa™šEG6q ~	wt The Ramco Cementssq ~ Dˆ¦fD…aš@ÌÍAÑ33D<áq ~	yt Godrej Propertiessq ~ DÈK3DÃš@ÌÍB33D§mÃq ~	{t Shankara Bldg. Prodsq ~ D#C3D\Í@ÌÍAy™šC¶xRq ~	}t AMD Industriessq ~ Aü  Aö  @(ö?@  B¡ÌÍq ~	t Vishal Fabricssq ~ Bó™šBíÌÍ@(ö@9™šDˆÜ{q ~	t Barbeque-Nation Hospsq ~ D[p DVIš@™šA¤ÌÍBPzáq ~	ƒt Nitin Spinnerssq ~ CuffCo¦f@™š@¸  D¦û3q ~	…t DCWsq ~ B#  B33@õÃ?s33E‡XÍq ~	‡t Fine Organic Inds.sq ~ E;ƒ3E7$Í@õÃB‹ÌÍB0\)q ~	‰t Graphite Indiasq ~ D0ìÍD,Ð @QìAƒ™šDÓQìq ~	‹t L&T Finance Holdingssq ~ B°™šB¬€ @Qì@33F
+H)q ~	t Canara Banksq ~ C33C¦f@®@c33F•ã³q ~	t Navin Fluorine Intlsq ~ Ed” E_[3@ÂB§šCåO\q ~	‘t Bank of Maharashtrasq ~ A¯33A«33@Â?   EÄ~=q ~	“t Den Networkssq ~ BSÌÍBO  @zá?™™šE rq ~	•t Kajaria Ceramicssq ~ Dx DsÍ@G®A°ffBœÇ®q ~	—t Shree Cementsq ~ FÜÓ€F×íæ@G®D³3B6{q ~	™t Cholamandalam Fin.sq ~ D%yšD!Ð @£×AjffAñp¤q ~	›t EPLsq ~ CvŒÍCqš@£×@®ffD7ƒ×q ~	t Ruchi Soya Indssq ~ D‰û3D†îf@£×AÃ33B%¸Rq ~	Ÿt 	Agro Phossq ~ A}™šAx  @£×>³33BÀúáq ~	¡t BCL Industriessq ~ CƒyšC€“3@£×@¹™šBÁ×
+q ~	£t Adani Ports &Specialsq ~ D(  D$éš@  Am™šFRšq ~	¥t Alkyl Amines Chemsq ~ E‰šE†f@\)BÀLÍCèöq ~	§t Power Grid Corpsq ~ C+&fC'ff@\)@p  FÈ
+Cq ~	©t Rico Auto Indssq ~ BmffBh33@\)?¦ffEmìöq ~	«t Mazdasq ~ DŒÍDS3@¸RANffAFffq ~	­t HealthcareGlobalsq ~ Cz33CtÀ @¸R@®ffD øöq ~	¯t Praxis Home Retailsq ~ B/  B+33@{?s33A‹\)q ~	±t IFGL Refractoriessq ~ CÍ¬ÍCÉ9š@
+p¤AffB=£×q ~	³t Granules Indiasq ~ C½³3C¹™š@
+p¤A33Eošq ~	µt Jindal Stainlesssq ~ C"LÍCÌÍ@ÌÍ@`  E¹ò=q ~	·t ITIsq ~ C šBú³3@(ö@0  E^=q ~	¹t HCCsq ~ A:ffA6ff@(ö>€  F¦H\q ~	»t Container Corpsq ~ D ùšD†f@(öA\ÌÍEÎU3q ~	½t AU Small Fin. Banksq ~ D˜vfD•4Í@…AÐffDžŒ{q ~	¿t AKG Eximsq ~ AÎffAÊ  @…?ÌÍ?Ê=qq ~	Át 
+Orient Cementsq ~ CÀ Cff@õÃ@VffE»®q ~	Ãt 
+Balaji Aminessq ~ EL, EGäÍ@õÃBˆæfBòáHq ~	Åt Hind National Glasssq ~ B6ffB2™š@Qì?s33A'×
+q ~	Çt Astec Lifesciencessq ~ D­†fD©ë3@®AæÌÍAÉ
+=q ~	Ét Bhageria Industriessq ~ CˆìÍC†š@
+=@´ÌÍBõúáq ~	Ët Anmol Indiasq ~ C(&fC$³3@Â@\ÌÍAÙ
+=q ~	Ít Syngene Internation.sq ~ D³3DlÍ@ÂAQ™šCÁï\q ~	Ït PC Jewellersq ~ AÄ  AÀ  @¸?   D¨Záq ~	Ñt Navkar Corporationsq ~ BEÌÍBAÌÍ@×
+?€  D[^¸q ~	Ót Inspirisys Solutionssq ~ BŠ³3B‡æf@×
+?³33B–”{q ~	Õt 	Oil Indiasq ~ C&ÙšC#€ @33@VffDƒ3q ~	×t Talbros Auto Compontsq ~ C¡ùšCžÀ @ë…@ÎffBò8Rq ~	Ùt Rane Brake Liningsq ~ D}  Dx–f@ë…A¡33B®q ~	Ût Uttam Galva Steelssq ~ @¡™š@žff@G®=ÌÌÍD£3q ~	Ýt 	Max Indiasq ~ B“  Bš@ £×?¹™šC†¸q ~	ßt H.G. Infra Engg.sq ~ D  Dff@ £×A&ffC/^¸q ~	át Quick Heal Techsq ~ C—ŒÍC”“3@   @¾ffDtnq ~	ãt ButterflyGandhimathisq ~ DAùšD>,Í@   As33B¸q ~	åt Carborundum Univer.sq ~ D(<ÍD$ó3?þ¸RARffCMhöq ~	çt 	SML Isuzusq ~ DÜÍDf?ýp¤A5™šB«õÃq ~	ét Hikalsq ~ DÆfD,Í?ýp¤A&ffC·aHq ~	ët Lupinsq ~ DŠlÍD‡¼Í?ýp¤A¬  Dµë3q ~	ít 
+Polycab Indiasq ~ DçTÍDâØ ?ýp¤B™šC(öq ~	ït 
+D.P. Abhushansq ~ C?YšC;¦f?ü(ö@lÌÍAl(öq ~	ñt Kakatiya Cemen Sugarsq ~ CŠs3C‡Æf?ü(ö@«33Bù(öq ~	ót Rallis Indiasq ~ C¢,ÍCŸÍ?úáH@È  D‡Ú=q ~	õt Agarwal Indl. Corpsq ~ C®ÌÍC«s3?ù™š@ÖffBQìq ~	÷t NRB Industrialsq ~ A“™šAÌÍ?÷
+=>³33AO\)q ~	ùt Commercial Engineerssq ~ B  B33?÷
+=?333CYšq ~	ût Guj. Lease Finsq ~ @)™š@&ff?õÂ=LÌÍ@g
+=q ~	ýt 	S&S Powersq ~ Aª  A¦ÌÍ?õÂ>ÌÌÍ@‡®q ~	ÿt Kernex Microsystemssq ~ BššB—33?õÂ?¹™šAé™šq ~
+t 	Wockhardtsq ~ DLÍDÐ ?õÂA33CÙÀ q ~
+t MTAR Technologiessq ~ D´dÍD± ?ó33A×33C	ë…q ~
+t SBI Cards AndPaymentsq ~ D˜ D~\Í?ó33AšffE
+q ~
+t Consolid. Finv.&Holdsq ~ BýffBø³3?ñë…@ffA33q ~
+	t Jain Irrigation Syssq ~ BffAþ  ?ñë…?™šE†")q ~
+t Future Lifestylesq ~ BLÍBŠ³3?ï\)?¦ffBÝaHq ~
+
+t CEATsq ~ D©›3D¦š?î{AÆffCxO\q ~
+t Kamdhenusq ~ C4ŒÍC1@ ?î{@S33CVÇ®q ~
+t Indraprastha Gassq ~ Dp Dæf?ìÌÍA"ffE&ÐRq ~
+t Power Finance Corpsq ~ Có3Bÿ33?ë…@ffEí2öq ~
+t 
+Gravita Indiasq ~ C9ffC6Í?ë…@VffCä±ìq ~
+t Dharan Sugars & Chemsq ~ A±™šA®ff?ê=q>ÌÌÍBB\q ~
+t Zee Entertainmentsq ~ CJÀ CGš?ê=q@i™šF q ~
+t 
+Tata Powersq ~ Bú  Bõ€ ?ê=q@  Fë¦³q ~
+t Vineet Laboratoriessq ~ Bß™šBÛ™š?èõÃ@   BÑ
+=q ~
+t CSB Banksq ~ C¯fC«æf?èõÃ@È  C¤Ùšq ~
+!t Mah & Mah Finl. Servsq ~ CffC³3?èõÃ@,ÌÍF%;×q ~
+#t Som Distilleriessq ~ BJ™šBG  ?ç®?fffCÙ°¤q ~
+%t 
+21st Cent Mgtsq ~ A´ffA±33?ç®>ÌÌÍ?záq ~
+'t Federal Banksq ~ B®æfB«ÌÍ?æff?ÆffFaâ=q ~
+)t Kirloskar Ferroussq ~ C˜,ÍC•€ ?å¸@«33D¸h¤q ~
++t Indraprastha Medicalsq ~ B¥ffB¢€ ?ã×
+?¹™šC‹#×q ~
+-t Visaka Inds.sq ~ DLÀ DI)š?ã×
+Ae™šB××
+q ~
+/t Guj. Sidhee Cementsq ~ BNÌÍBK33?â\?fffC¿îq ~
+1t Sundram Fastenerssq ~ D>éšD;™š?â\AT  B¸Rq ~
+3t 
+BASF Indiasq ~ E3Ã3E0¥š?áG®BGffBO£×q ~
+5t One Point OneSolutinsq ~ B9™šB6ff?à  ?LÌÍBQìq ~
+7t 
+Bajaj Autosq ~ EoYšEk< ?à  Bƒ³3Cÿâq ~
+9t Kabra Extrus.techniksq ~ CTffCPÀ ?à  @i™šC4õÃq ~
+;t Bombay Super Hybridsq ~ C¦ÍC£33?à  @¶ff@€õÃq ~
+=t BEMLsq ~ D¢äÍD 3?Þ¸RA²ffCEž¸q ~
+?t Cosmo Filmssq ~ D”	šD‘ƒ3?Þ¸RA¡™šBœõÃq ~
+At Mirza Internationalsq ~ B³3B  ?Ýp¤?ŒÌÍDè–q ~
+Ct 	HCL Tech.sq ~ D€fD{æf?Ü(öAŠÌÍFÈ3q ~
+Et Balrampur Chini Millsq ~ C¾  C»ff?Ü(ö@ÎffD¹!šq ~
+Gt Wendt Indiasq ~ EŒ¤ EŠFÍ?ÚáHB—LÍ@áHq ~
+It Assoc Alcohols &Brewsq ~ Cî3Cê3?ÚáHA   BN®q ~
+Kt Kanpur Plastipacksq ~ CŒlÍCŠ3?Ù™š@–ffBDzáq ~
+Mt Chambal Fert & Chemsq ~ C˜yšC•ìÍ?Ù™š@£33E®cìq ~
+Ot Heidelberg Cementsq ~ C„S3C‚  ?ØQì@ŒÌÍC›q ~
+Qt Indoco Remediessq ~ CàÙšCÝ  ?×
+=@îffC¡Hq ~
+St Saregama Indiasq ~ EX±šEU!š?ÕÂBd  A{q ~
+Ut Mindtecksq ~ Bç™šBãÌÍ?ÕÂ?ó33B±  q ~
+Wt Rollatainerssq ~ @C33@@  ?ÕÂ=LÌÍC‹¸Rq ~
+Yt Dixon Technologiessq ~ E†„ÍE„U3?Ó33B‹æfCŽ®q ~
+[t Capri Global Capitalsq ~ D£3Dyš?Ñë…A
+ffBY33q ~
+]t Zenith Exportssq ~ B§šB¤ff?Ñë…?¬ÌÍ@6ffq ~
+_t Nahar Spinning Millssq ~ CÅ9šCÂÍ?Ñë…@Ë33C-{q ~
+at TTK Healthcaresq ~ DD¹šDA–f?Ï\)AHÌÍA(öq ~
+ct Parsvnath Developerssq ~ A}™šAy™š?ÌÌÍ>€  DWŸ\q ~
+et Urja Globalsq ~ @Ë33@È  ?ÌÌÍ=ÌÌÍF‚öq ~
+gt Mahindra & Mahindrasq ~ D9ÆfD6ÜÍ?Ë…A:ffE‘öq ~
+it The Western Indiansq ~ B™šB{™š?Ë…?€  ?#×
+q ~
+kt Steel City Securitiesq ~ B“ffB‘š?Ë…?“33B×Ü)q ~
+mt Aro Granitesq ~ B™æfB—€ ?Ê=q?™™šCÅ´{q ~
+ot Somi Conveyor Beltgsq ~ Bi33Be™š?ÈõÃ?fffAffq ~
+qt 
+Indigo Paintssq ~ E"ÑšE O3?ÈõÃB ™šA¾ÌÍq ~
+st HEGsq ~ E
+  Es3?Ç®B33C¶G®q ~
+ut Petronet LNGsq ~ CZ@ CVæf?Ç®@VffE7È q ~
+wt Nilkamalsq ~ E$ E!ˆ ?Ç®B!  A`ÌÍq ~
+yt 
+Jay Shree Teasq ~ C ™šBýLÍ?Å¸?ù™šCÈ†fq ~
+{t Shivam Autotechsq ~ AÔ  AÐÌÍ?Ã×
+>ÌÌÍCa
+=q ~
+}t MBL Infrastructuressq ~ A¹™šA¶ÌÍ?Ã×
+>³33BaõÃq ~
+t Computer Age Mansq ~ EPÌ EM¨Í?Ã×
+BHÌÍCP(öq ~
+t Tata Chemicalssq ~ D>ÉšD;ìÍ?Â\A733Eüöq ~
+ƒt Nath Bio-Genessq ~ C¶ÙšC´  ?ÁG®@®ffAñ
+=q ~
+…t Ashoka Buildconsq ~ BÖÌÍBÓ™š?ÁG®?ÌÌÍEsaq ~
+‡t Hindustan Aeronsq ~ D‹‹3D‰|Í?À  Aƒ™šCL¦fq ~
+‰t Laxmi Organic Inds.sq ~ C‚à C€ó3?¾¸R@vffD¥o®q ~
+‹t 
+GAIL Indiasq ~ CŒÍC	€ ?¾¸R@33FaI q ~
+t JM Financialsq ~ BÓÌÍBÐ³3?¾¸R?ÆffE¤q ~
+t Ind-Swift Lab.sq ~ Bâ€ Bß33?½p¤?Ó33Cû,Íq ~
+‘t Asian Hotels (West)sq ~ CÀ CŽ¦f?¼(ö@†ffA„  q ~
+“t Orient Abrasivessq ~ B
+33B33?¼(ö?   D@Hq ~
+•t Central Dep. Servicesq ~ D¦nfD¤ ?ºáHA™™šC”'®q ~
+—t Dhunseri Venturessq ~ CœYšCšš?ºáH@  BB  q ~
+™t Somany Home Innovat.sq ~ C·šC´yš?¹™š@¨  BQìq ~
+›t Modi Rubbersq ~ B“  Bæf?¹™š?†ff@]p¤q ~
+t SAB Events & Governasq ~ @`  @\ÌÍ?¹™š=LÌÍA\)q ~
+Ÿt Dhanlaxmi Banksq ~ A33A‹33?¸Qì>€  E$˜Rq ~
+¡t Newgen Software Techsq ~ D3Dà ?¸QìAÌÍB«\)q ~
+£t Adani Enterprisessq ~ D±ˆ D¯ ?·
+=A   E‰™Ãq ~
+¥t Vesuvius Indiasq ~ D¤Ð D¢€ ?µÂA”  B\\)q ~
+§t Pricolsq ~ BÀ€ B½ÌÍ?µÂ?¬ÌÍD8@ q ~
+©t Jayant Agro-Organicssq ~ C‘S3CLÍ?´zá@™šC ŒÍq ~
+«t Omaxesq ~ B¬™šBª33?´zá?™™šBzffq ~
+­t Hinduja Global Soln.sq ~ E:Ó3E8:f?´záB&33AÐ=qq ~
+¯t Ausom Enterprisesq ~ B»šB¸€ ?´zá?¦ff@Ù™šq ~
+±t Jubilant FoodWorkssq ~ EkòfEh³3?³33BOÌÍDHffq ~
+³t Federal-Mogul Goetzesq ~ CœS3Cš,Í?±ë…@‰™šD,èRq ~
+µt 
+STL Globalsq ~ AhÌÍAe™š?±ë…>LÌÍB„q ~
+·t Shriram Trans. Finsq ~ D­Ã3D«` ?±ë…A˜ÌÍD²LÍq ~
+¹t Iris Clothingssq ~ C:&fC7™š?±ë…@#33Ao…q ~
+»t AGC Networkssq ~ D”Ó3D’Ë3?°£×A‚  ?™™šq ~
+½t Lakshmi Finance&Indlsq ~ B¡€ BŸLÍ?°£×?ŒÌÍ>¸Qìq ~
+¿t Tata Motors - DVRsq ~ CÀ C	Ùš?°£×?ó33D®  q ~
+Át BAG Films & Mediasq ~ @lÌÍ@i™š?¯\)=LÌÍBæ\q ~
+Ãt Apollo Micro Systemssq ~ Bç™šBä€ ?®{?ÆffCM—
+q ~
+Åt Artemis Medicaresq ~ C½šCº“3?¬ÌÍ@¡™šA‰¸q ~
+Çt Bhansali Engg. Poly.sq ~ C;ÌÍC9LÍ?¬ÌÍ@   DÌÒq ~
+Ét Surya Roshnisq ~ DffD£3?¬ÌÍ@á™šC€w
+q ~
+Ët Energy Developmentsq ~ A6ffA4  ?ª=q>™šBm×
+q ~
+Ít 
+VRL Logisticssq ~ C˜3C–3?ª=q@€  C¼yšq ~
+Ït Guj. Ambuja Exportssq ~ CBšC?ŒÍ?ª=q@#33Dùü)q ~
+Ñt Nahar Poly Filmssq ~ C_ÌÍC\æf?§®@9™šC„^¸q ~
+Ót India Pesticidessq ~ C¨ÌÍC¦  ?§®@‹33DP(Rq ~
+Õt Dodla Dairysq ~ Ds3Dvf?¦ff@þffDîq ~
+×t Dolat Investmentsq ~ BëšBèš?¥¸?À  Cª‘ìq ~
+Ùt 
+Divi's Labsq ~ E™PÍE—^f?¥¸By33D$Ã×q ~
+Ût Transport Corp.sq ~ CÒÓ3CÐ&f?¥¸@«33B|¸q ~
+Ýt Emamisq ~ D¶fD	ó3?£×
+@á™šD<Íq ~
+ßt Oil Country Tubularsq ~ @þff@û33?¢\=ÌÌÍA”áHq ~
+át ACCsq ~ E¡šEÀ ?¢\AðÌÍCè£×q ~
+ãt Kilitch Drugs(India)sq ~ C[¦fCXæf?¢\@0  B€záq ~
+åt Premiersq ~ @€  @|ÌÍ?¢\=LÌÍA(záq ~
+çt B.C. Power Controlssq ~ @€  @|ÌÍ?¢\=LÌÍD®q ~
+ét Avanti Feedssq ~ DÖfDÜÍ?¡G®@üÌÍC‡ð¤q ~
+ët Gujarat Gassq ~ D2¼ÍD0†f?   A
+™šDOåq ~
+ít Revathi Equipmentssq ~ D),ÍD'f?   A™š?±ë…q ~
+ït GMR Infrastructuresq ~ Aã33Aàff?   >³33Fzs…q ~
+ñt Dynamatic Techsq ~ DÒffDÏÐ ?   A¥™š@
+=q ~
+ót Vinati Organicssq ~ D÷k3Dôaš?ž¸RAÂffB¾=qq ~
+õt NTPCsq ~ BìffBé€ ?ž¸R?¹™šFcI
+q ~
+÷t Lincoln Pharmasq ~ C®9šC¬š?p¤@ˆ  B÷\q ~
+ùt Minda Industriessq ~ D:33D7ð ?p¤AÌÍC:(öq ~
+ût 
+Cummins Indiasq ~ DUšDRƒ3?p¤A%™šCÝž¸q ~
+ýt S Chand And Cosq ~ CÍC
+Yš?p¤?Ù™šC¯½qq ~
+ÿt Shakti Pumps (I)sq ~ D@YšD>	š?œ(öA  C~33q ~t 
+Rane Holdingssq ~ D9c3D7)š?šáHAffBóÑìq ~t NCCsq ~ B¯™šB­€ ?šáH?†ffE+q ~t MMP Industriessq ~ CŒÍC¦f?šáH?ó33B××
+q ~t 
+VA Tech Wabagsq ~ C¸æfC¶³3?™™š@ŒÌÍCÆfq ~	t Varun Beveragessq ~ D>s3D<0 ?™™šAÌÍD;èRq ~t Happiest Minds Tech.sq ~ Dª33D¨0 ?™™šA€ÌÍDoç®q ~
+t GNFCsq ~ CÀYšC¾š?—
+=@  DÕ«3q ~t Alembic Pharmasq ~ DDÓ3DB†f?—
+=A33Dqvfq ~t Steel Exchange Indiasq ~ B’  BLÍ?—
+=?Y™šDEq ~t Hathway Cable & Datasq ~ AÐffAÎ  ?•Â>™™šE™à=q ~t Imagicaaworld Entersq ~ A33A	™š?”zá=ÌÌÍBwzáq ~t 
+Future Retailsq ~ Bt™šBqÌÍ?”zá?333DÜÃq ~t Creative Newtechsq ~ CZŒÍCXÍ?”zá@   B/\q ~t Camlin Fine Sciencessq ~ C<ffC:@ ?“33@	™šD?þq ~t Speciality Restauransq ~ B•šB“ff?“33?Y™šC,Eq ~t Mahindra Life. Devsq ~ D>©šD<€ ?“33A
+ffBò\)q ~!t SpiceJetsq ~ B–šB”ff?“33?Y™šEÅqq ~#t Gandhi Spl. Tubessq ~ Có  Cðff?£×@®ffAç\)q ~%t Valiant Organicssq ~ D¬à Dªó3?£×AvffA‘ë…q ~'t JSW Ispat Specialsq ~ B#ÌÍB"  ?Ž{>æffElÚq ~)t Torrent Pharmasq ~ E?ñšE=Öf?Ž{BÌÍC=ã×q ~+t Tata Communicationssq ~ D´K3D²S3?ŒÌÍA|  C£3q ~-t Aakash Explorationsq ~ C‚ÌÍC` ?ŒÌÍ@6ffB‡W
+q ~/t Snowman Logisticssq ~ BJ  BGÌÍ?ŒÌÍ?ÌÍDëü)q ~1t 
+Cubex Tubingssq ~ AÜffAÚ  ?ŒÌÍ>™™šA4ÌÍq ~3t Nazara Technologiessq ~ Dçë3DådÍ?ŒÌÍA¡™šBè=qq ~5t Aksharchem (I)sq ~ CÞ&fCÛÀ ?‹…@™™šAt  q ~7t Bajaj Electricalssq ~ D  DŽ‘š?‹…AG33Cí&fq ~9t HDFCsq ~ E’fEìÍ?‹…AÒÌÍE®q ~;t Sobhasq ~ D Dvf?‹…@ÌÌÍC€T{q ~=t 	Atul Autosq ~ CX³3CVff?ˆõÃ@33D /\q ~?t Mcdowell Holdingssq ~ BS33BQ  ?†ff?ÌÍAØ£×q ~At Usha Martinsq ~ B†™šB…33?†ff?333Dâ.q ~Ct Wabco Indiasq ~ EãjfEá ?†ffB–™šA™šq ~Et KCPsq ~ C!&fC€ ?ƒ×
+?Ó33C¨^¸q ~Gt 
+MT Educaresq ~ AÌÍA33?ƒ×
+=ÌÌÍCC  q ~It The Mandhana Retailsq ~ A33A›™š?ƒ×
+>LÌÍBQ33q ~Kt Karda Constructionssq ~ CD¦fCB¦f?ƒ×
+@   C@T{q ~Mt Gillette Indiasq ~ E»RfE¹oš?‚\Bqff@¸£×q ~Ot Rudrabhishek Enter.sq ~ Co@ ClÙš?G®@™šA«\)q ~Qt Keynote Finl. Servsq ~ B–  B”€ ?G®?@  A{q ~St Supreme Industriessq ~ EAšEòf?G®A§™šBc¸q ~Ut DCM Shriramsq ~ DhVfDff?G®A  Bq=qq ~Wt Shriram EPCsq ~ @¡™š@   ?€  =LÌÍE4Íq ~Yt 
+JSW Energysq ~ C|ŒÍCzÍ?€  @   EÅqq ~[t Sree Rayal.Hi-Strentsq ~ C©S3C§¦f?€  @VffA¬Qìq ~]t Bioconsq ~ CÁ,ÍC¿Ff?}p¤@s33E.‹®q ~_t Kansai Nerolac Paintsq ~ D|ÍDöf?záH@Ã33D‚úq ~at 	Zee Learnsq ~ AvffAt  ?záH>™šE²q ~ct GM Breweriessq ~ D†fDÍ?záH@´ÌÍB™šq ~et Aurionpro Solutionssq ~ CYLÍCW33?záH@ffBr£×q ~gt HDFC Asset Mngt. Cosq ~ E2bfE0ªf?xQìAÜ  Ca&fq ~it HCL Infosystemssq ~ AzffAx  ?xQì>™šD;…q ~kt AVT Natural Prodsq ~ BœæfB›ff?xQì?@  CæÏ\q ~mt L&T Infotechsq ~ E’bÍEý3?uÂB2ÌÍD	áHq ~ot NHPCsq ~ AÒ  AÐ  ?uÂ>€  E˜eHq ~qt Linde Indiasq ~ DÛfDØùš?uÂA…33Aí33q ~st Goldiam Internatl.sq ~ D<ÍDÓ3?uÂ@´ÌÍBäzáq ~ut 
+Sagar Cementssq ~ D¤33D¢¦f?s33AFffB%®q ~wt Zota Health Caresq ~ CzÀ Cxff?s33@ffAø(öq ~yt Ajmera Realty&Infrasq ~ C›ÍC™™š?p£×@9™šB)záq ~{t 
+Esab indiasq ~ Dí|ÍDëDÍ?p£×AŽ  @Ö¸Rq ~}t Xelpmoc Designsq ~ CÎ` CÌs3?p£×@vff@´(öq ~t 
+Affle (India)sq ~ E‚Ê E” ?n{B  AÞáHq ~t Satin Creditcaresq ~ B­ffB«ÌÍ?n{?LÌÍBÿzáq ~ƒt Accuracy Shippingsq ~ B¸LÍB¶™š?n{?Y™šB×
+q ~…t Inox Leisuresq ~ C¢ÆfC¡Ff?n{@@  Dlqq ~‡t Aurobindo Pharmasq ~ De&fDc ?k…A™šD¿öq ~‰t Gujarat Pipavav Portsq ~ BÝ™šBÛ™š?hõÃ?€  EüRq ~‹t Sintex Plastics Techsq ~ @±™š@°  ?hõÃ=LÌÍDµì{q ~t SREI Infra Finsq ~ A2ffA0ÌÍ?fff=ÌÌÍDøöq ~t Jagran Prakashansq ~ B†LÍB…š?fff?™šDê=q ~‘t Shalbysq ~ CAÀ C@Í?c×
+?Ù™šC:+…q ~“t Sona BLW Precisionsq ~ CÛ  CÙ³3?aG®@vffDå"=q ~•t Trentsq ~ Df¹šDd¹š?^¸RA   D4šq ~—t MEP Infrastructuresq ~ A¸ÌÍA·33?^¸R>LÌÍBñ¸Rq ~™t Greenply Industriessq ~ C?LÍC=¦f?^¸R?Ó33C2—
+q ~›t Sadbhav Engineeringsq ~ B‹™šBŠff?^¸R?™šDMŽq ~t Archidply Indssq ~ BÌÍB
+™š?^¸R>™™šA®¸Rq ~Ÿt Bharat Wire Ropessq ~ B£33B¡ÌÍ?^¸R?333BBÌÍq ~¡t EIH Associated Hotelsq ~ C©ffC§ó3?\(ö@9™š@ó…q ~£t RBL Banksq ~ C@ó3C?LÍ?\(ö?Ó33Eý§qq ~¥t Banka Bioloosq ~ B™šB€€ ?\(ö?ÌÍA…q ~§t Rajdarshan Indssq ~ AŽÌÍA™š?Y™š>™š?záq ~©t Taj GVK Hotelssq ~ Cs3CYš?W
+=?ŒÌÍCO!Hq ~«t Vadilal Industriessq ~ D‚^fDIš?W
+=A
+ffAXÌÍq ~­t Dr. Reddy's Labsq ~ E“9šE’3?TzáB33D«¦fq ~¯t Hindustan Coppersq ~ C³3Cs3?Që…?   F6ô…q ~±t Hindustan Compositessq ~ C¦ó3C¥™š?Që…@,ÌÍAQìq ~³t Solara Active Pharmasq ~ DÍ™šDËð ?Që…ATÌÍBË(öq ~µt Sanginita Chemicalssq ~ AøÌÍAöÌÍ?O\)>€  C¸Rq ~·t Lasa Supergenericssq ~ B•ffB”33?O\)?™šC+…q ~¹t 
+Coal Indiasq ~ CLÍC&f?O\)?“33FÙÍq ~»t Vinyl Chemicalssq ~ C&fCæf?LÌÍ?   BRÌÍq ~½t Onmobile Globalsq ~ C
+ffC	LÍ?LÌÍ?ŒÌÍDCú=q ~¿t Kotak Mahindra Banksq ~ DÎÙšDÍ4Í?LÌÍARffEI` q ~Át Jindal Poly Filmssq ~ Dz¼ÍDxÃ3?J=q@üÌÍB£Ç®q ~Ãt Hitech Corporationsq ~ CsÀ CqÙš?J=q?ó33A#\)q ~Åt 	Redingtonsq ~ C£  C¢Yš?J=q@#33D™¾¸q ~Çt Ganesha Ecospheresq ~ DöfD ó3?J=q@™šA;\)q ~Ét General Ins. Corpsq ~ C4€ C3š?G®?³33D†fq ~Ët Elgi Equipmentssq ~ C[€ CYÌÍ?G®?Ù™šE˜`q ~Ít Shipping Corpn.sq ~ BÜÌÍBÛš?G®?Y™šD—µÃq ~Ït Craftsman Automationsq ~ Dúp Døƒ3?E¸AvffAxÌÍq ~Ñt Nila Infrastructuressq ~ @Ñ™š@Ð  ?E¸=LÌÍD9ã3q ~Ót MOILsq ~ C>YšC<æf?E¸?¹™šD1”{q ~Õt Munjal Auto Indssq ~ B„™šBƒ™š?B\?   C¦uÃq ~×t Kalpataru PowerTranssq ~ Cë³3CéìÍ?B\@c33C)Íq ~Ùt 	Fiem Indssq ~ DH|ÍDFüÍ?@  @À  Bffq ~Ût 	ABB Indiasq ~ DÔdÍDÒÐ ?@  AJffB«¨öq ~Ýt Akzo Nobel Indiasq ~ E
+ü Eîf?@  A†ÌÍ@Â\q ~ßt Jay Bharat Marutisq ~ CYæfCXLÍ?=p¤?ÌÌÍC5Ãq ~át Mukandsq ~ C  C
+ó3?=p¤?†ffC±×
+q ~ãt 	Waterbasesq ~ BùffB÷™š?:áH?fffC(ë…q ~åt Manugraph Indiasq ~ A^ffA\ÌÍ?8Qì=ÌÌÍA¨áHq ~çt PG Electroplastsq ~ C»¬ÍCºS3?8Qì@,ÌÍA¤ffq ~ét United Breweriessq ~ D²“3D±K3?8QìA$  C«O\q ~ët TCPL Packagingsq ~ D
+c3Dff?333@|ÌÍA“×
+q ~ít BSEsq ~ DœšD›3?333A33Dšq ~ït Pokarnasq ~ CÅ“3CÄ33?333@0  C"Âq ~ñt Zen Technologiessq ~ B¼³3B»ff?0£×?&ffC”1ìq ~ót 
+Bajaj Corpsq ~ CŽ™šC  ?0£×?ù™šCUYšq ~õt Bharat Rasayansq ~ FOÙfFNmš?0£×Bµæf?¬ÌÍq ~÷t ABB Power Productssq ~ Dð³3Dï3?.{AP  B(öq ~ùt Williamson Magor &Cosq ~ A²  A°ÌÍ?.{>™šAVáHq ~ût Moksh Ornamentssq ~ Aí™šAì  ?.{>LÌÍDaHq ~ýt Shilpa Medicaresq ~ DÓ3DÃ3?.{@ˆ  C³nq ~ÿt Maheshwari Logisticssq ~ BÐæfBÏ€ ?+…?333A—G®q ~t Tata Consumer Producsq ~ D= D;ÌÍ?+…@¡™šDÉ¥Ãq ~t 
+V-Mart Retailsq ~ Er| Epß3?+…AÎffCS\)q ~t Balmer Lawrie & Cosq ~ Cs3CŒÍ?+…?fffC’c×q ~t Bajaj Hold & Investsq ~ E{pÍEyÅš?+…AÕ™šA¬õÃq ~	t 
+Torrent Powersq ~ Cã™šCâš?(õÃ@@  CÌ¾¸q ~t Windsor Machinessq ~ BffBff?(õÃ>€  BÇG®q ~
+t Indian Railway Financesq ~ A¸  A¶ÌÍ?(õÃ>™šEÛ€öq ~t 
+Max Financialsq ~ DŒC3D‹[3?&ff@è  D@5q ~t Persistent Systemssq ~ EDs3EC0 ?&ffA¡™šCEq ~t 
+Hero MotoCorpsq ~ E,´ÍE+›3?#×
+AŒÌÍD:záq ~t Pioneer Distilleriessq ~ BûæfBúLÍ?#×
+?LÌÍ@Æ¸Rq ~t Indostar Capital Finsq ~ C©S3C¨@ ?#×
+@	™šBffq ~t L&T Technology Serv.sq ~ Eg£3Ef+3?#×
+A¼  C‘UÃq ~t Dhampur Sugar Millssq ~ C±Ó3C°³3?#×
+@  C¸uÃq ~t Indian Overseas Banksq ~ AÃ™šAÂff?¸R>™šEãÍq ~t 
+PNC Infratechsq ~ Cs3Cœ€ ?(ö?ó33CñaHq ~!t Palred Technologiessq ~ Bè€ Bçš?(ö?333A ¸Rq ~#t Optiemus Infracomsq ~ CŒÍC¦f?(ö?fffBë¸q ~%t Universal Cablessq ~ C7YšC6@ ?™š?ŒÌÍB*®q ~'t Brigade Enterprisessq ~ C£  C¢&f?™š?ù™šC˜Hq ~)t Hindustan Motorssq ~ A  A33?
+==LÌÍC‚ã×q ~+t National Aluminiumsq ~ B»  B¹æf?
+=?ÌÍGŒHÒq ~-t 
+Ambuja Cementsq ~ CÍ“3CÌ` ?
+=@™šE(ÍHq ~/t Wealth First Portsq ~ CGó3CFÌÍ?zá?“33>€  q ~1t 	HDFC Banksq ~ D²NfD±H ?záA33E¶ìq ~3t Gayatri Projectssq ~ B/™šB.™š?ë…>€  E/ˆ)q ~5t Godrej Industriessq ~ Dƒ3D¼Í?ë…@FffC$®q ~7t Mazagon Dock Shipsq ~ C¹šC  ?\)?¹™šD à¤q ~9t Galaxy Surfactantssq ~ EBñšEAÜ ?\)AŠÌÍA’ÌÍq ~;t Sakar Healthcaresq ~ C433C333?\)?€  BÑ”{q ~=t Sanco Industriessq ~ AÌÍA  ?\)=LÌÍB§p¤q ~?t Natco Pharmasq ~ D€šD~™š?ÌÍ@´ÌÍDšáq ~At Subrossq ~ C£s3C¢ŒÍ?ÌÍ?æffAÆ¸Rq ~Ct JSW Holdingssq ~ E¢¸fE¡Ô ?ÌÍAäff@ß®q ~Et 
+Delta Corpsq ~ C7YšC6Yš?ÌÍ?€  D°`¤q ~Gt CCL Products (India)sq ~ CÝ@ CÜÍ?ÌÍ@™šD‹ß\q ~It Igarashi Motorssq ~ Dó3D<Í?
+=q@6ffC4úáq ~Kt Agro Tech Foodsq ~ Dz¼ÍDyff?
+=q@«33A{q ~Mt Engineers Indiasq ~ B–šB•LÍ?
+=q>ÌÌÍDzÜ)q ~Ot 
+Ganga Forgingsq ~ Bâ33Bá  ?®?™šB_{q ~Qt Ginni Filamentssq ~ BffB™š?®>LÌÍBøp¤q ~St Globus Spiritssq ~ D6ÜÍD5æf?®@vffB’£×q ~Ut ICE MakeRefrigeratiosq ~ B«  Bªš?®>æffA
+=q ~Wt DCM Nouvellesq ~ CQ³3CP™š?®?ŒÌÍCj×
+q ~Yt Electrost Castingssq ~ BffB™š?¸>LÌÍDo®q ~[t Britannia Indssq ~ EUöfETÙš?¸AŽffDw{q ~]t 
+Superhousesq ~ C%ÍC$33?¸?Y™šAÌõÃq ~_t Accelya Solutionssq ~ D«fDª<Í?¸@á™šB33q ~at Lumax Auto Techsq ~ C'ó3C'š?\?Y™šC Ê=q ~ct Goodyear Indiasq ~ DžÃ3Dø ?   @Ë33BW×
+q ~et Kothari Productssq ~ BÝæfBÜÌÍ?   ?ÌÍ@Që…q ~gt 
+Vimta Labssq ~ C¢,ÍC¡` ?   ?ÌÌÍB–…q ~it Jain Irrigation(DVR)sq ~ A¢ffA¡™š?   =ÌÌÍBb¸Rq ~kt Gokul Refoils & Solvsq ~ AôffAó33>úáH>™šBt™šq ~mt PTC India Fin. Servsq ~ A£™šA¢ÌÍ>úáH=ÌÌÍDl»…q ~ot 
+IG Petrochem.sq ~ D.|ÍD-£3>úáH@Y™šB%£×q ~qt 
+GP Petroleumssq ~ BvÌÍBu™š>úáH>™™šBh®q ~st ONGCsq ~ Bæ™šBå€ >õÂ?ÌÍF?0¤q ~ut Pfizersq ~ E·fE¶°f>õÂAà  B¨.q ~wt Sheela Foamsq ~ E  Ejf>õÂA5™šAiG®q ~yt Tata Coffeesq ~ CT€ CS€ >ð£×?€  E­Ç3q ~{t Adani Powersq ~ B¿³3B¾ÌÍ>ð£×>æffD£/®q ~}t Motor & General Finsq ~ A«33Aªff>ð£×=ÌÌÍ@½p¤q ~t South Indian Banksq ~ A,  A+33>ð£×=LÌÍEô¤fq ~t Ucal Fuel Sys.sq ~ C"™šC!Ùš>ë…?@  BB
+=q ~ƒt Ircon Internationalsq ~ B/ÌÍB/  >ë…>LÌÍDÒxöq ~…t Chembond Chemicalssq ~ Cjó3Ciæf>æff?†ffB\q ~‡t Suven Pharmasq ~ Cý&fCüf>æff@  CbO\q ~‰t Astralsq ~ E Eˆ >æffA  CõÃq ~‹t JB Chem & Pharmasq ~ Dâ¨ Dá¦f>æffA ÌÍC
+—
+q ~t Burger King Indiasq ~ C4ÙšC4Í>áG®?LÌÍEšq ~t IRCTCsq ~ E´ÍEš>áG®A#33DYÞ¸q ~‘t Kayasq ~ CöùšCõæf>áG®@	™šAÜ(öq ~“t Grasim Industriessq ~ DÁë3DÁ3>áG®@Ø  DŒË×q ~•t Barak Valley Cementssq ~ A¸ffA·™š>áG®=ÌÌÍ@Ú\q ~—t 
+Bata indiasq ~ DÊffDÉˆ >Ü(ö@ÞffC×:áq ~™t United Spiritssq ~ D 0 D€ >Ü(ö@0  D‘ªáq ~›t Ganges Securitiessq ~ Bº³3B¹æf>Ü(ö>ÌÌÍ@éë…q ~t Mishra Dhatu Nigamsq ~ C=™šC<ÌÍ>×
+=?LÌÍC»¾¸q ~Ÿt Care Ratingssq ~ D5‰šD4Æf>×
+=@C33C‰ü)q ~¡t Rajesh Exportssq ~ DüÍDVf>×
+=@&ffCšq ~£t Advani Hotel&Resortssq ~ B‘  Bff>×
+=>™™šA4  q ~¥t Kamat Hotels (India)sq ~ BC33BBff>Ñë…>LÌÍBúáq ~§t IDBIsq ~ BÌÍB33>ÌÌÍ>™šF3q ~©t Vardhman Textilessq ~ Dî´ÍDíÄÍ>Ç®@ð  C>uÃq ~«t Supreme Petrochemsq ~ D3¬ÍD2ùš>Ç®@333A•
+=q ~­t 	DIC Indiasq ~ Cô³3CóÀ >Ç®?ó33@{…q ~¯t Stove Kraftsq ~ DA<ÍD@|Í>Ç®@@  DXRq ~±t Uflexsq ~ Dp Déš>Ç®@ffC‰÷
+q ~³t Amber Enterprisessq ~ E:û3E:C3>Ç®A8  B\)q ~µt TV18 Broadcastsq ~ B33B™š>Ç®>™šEÂáÃq ~·t Mangalam Drugs&Org.sq ~ C8@ C7ŒÍ>Â\?333C)®q ~¹t Sanghi Industriessq ~ B„  Bƒ€ >Â\>€  DHz=q ~»t Schaeffler Indiasq ~ EÖzfEÕ¬f>Â\AÎ  A¬Qìq ~½t Aarti Drugssq ~ D&ÙšD&9š>Â\@   CŽÕÃq ~¿t Alphageo Indiasq ~ C™¬ÍC™š>Â\?“33BÌÍq ~Át Sundaram Fin. Holdsq ~ B € BŸæf>Â\>™™šD'Öfq ~Ãt Goldstone Technologysq ~ AVffAU™š>½p¤=LÌÍBh{q ~Åt Future Enter.-B-DVRsq ~ AVffAU™š>½p¤=LÌÍA×¸q ~Çt Polyplex Corporationsq ~ D¼ffD»¸ >¸Qì@®ffBeÂq ~Ét Asian Hotels (East)sq ~ CB¦fCAó3>¸Qì?333@øQìq ~Ët Allsec Tech.sq ~ CØ  C×Ùš>¸Qì?ÆffA*\q ~Ít Tata Motorssq ~ C’ùšC’s3>¸Qì?†ffFîû8q ~Ït DB Intnl.StockBrokersq ~ AbffAa™š>³33=LÌÍA˜õÃq ~Ñt Sonata Softwaresq ~ DAšD@lÍ>³33@,ÌÍCK  q ~Ót Oswal Greentechsq ~ Aå™šAäÌÍ>³33=ÌÌÍCy¸q ~Õt Larsen & Toubrosq ~ DÈ.fDÇ€ >®{@®ffE‰q ~×t Mohit Industriessq ~ Ap  Ao33>¨õÃ=LÌÍA\ÌÍq ~Ùt GR Infraprojectssq ~ DØ‰šD×Ó3>¨õÃ@¶ffB²€ q ~Ût Triveni Turbinesq ~ Bô€ Bó³3>¨õÃ>ÌÌÍCºáq ~Ýt 
+Prism Johnsonsq ~ C	ó3C	€ >¨õÃ>æffD
+Ffq ~ßt Astra Microwave Prodsq ~ C+33C*¦f>£×
+?ÌÍDÎ¸q ~át 
+Tips Inds.sq ~ D¦H D¥À >£×
+@ˆ  @Åp¤q ~ãt Niraj Cement Struct.sq ~ B=™šB=  >£×
+>™šAg…q ~åt 3P Land Holdingssq ~ A€ÌÍA€ff>ž¸R=LÌÍA £×q ~çt Foseco Indiasq ~ DÈæfDÈH >ž¸R@žff@ÈõÃq ~ét Websol Energy Systemsq ~ Bƒ33B‚ÌÍ>ž¸R>LÌÍC¿¸q ~ët 
+Aries Agrosq ~ C*ÍC)ŒÍ>”zá?   BÂ  q ~ít Brooks Laboratoriessq ~ B±™šB±š>\)>€  AˆQìq ~ït 	PNB Giltssq ~ BLÍBæf>\)>LÌÍC	záq ~ñt Axiscades Tech.sq ~ B¹æfB¹ff>Š=q>€  Bo  q ~ót Alankitsq ~ A—™šA—33>…¸=LÌÍDŒj=q ~õt 
+Bal Pharmasq ~ B¾šB½™š>…¸>€  Arffq ~÷t 	Blue Starsq ~ DR¼ÍDR0 >…¸@ÌÍB#G®q ~ùt BPLsq ~ B  B™š>…¸=ÌÌÍCÊ=q ~ût PNBsq ~ B  B™š>€  =ÌÌÍG2O6q ~ýt 
+Gabriel Indiasq ~ CffCÍ>€  >³33DœÍq ~ÿt Bhartiya Internatl.sq ~ Cf€ Ceó3>uÂ?ÌÍ@P£×q ~
+t Oriental Aromaticssq ~ Dg)šDfœÍ>uÂ@ÌÍA+
+=q ~
+t JBM Autosq ~ Cò³3Cò  >uÂ?“33B„½qq ~
+t The United Nilgirisq ~ CÓ9šCÒ¹š>uÂ?€  AAÂq ~
+t 	SKF Indiasq ~ E3«3E3>f>uÂ@Ù™šB33q ~
+	t Boschsq ~ Fiá FiU3>k…BÌÍB<\)q ~
+t Tokyo Plast Intl.sq ~ BØ³3BØ33>k…>€  A
+=q ~
+
+t MRFsq ~ GœºG›¶À>k…C5ó3A¸q ~
+t Kapston Facilitiessq ~ B±  B°™š>k…>LÌÍ>…¸q ~
+t Cochin Shipyardsq ~ C¼YšC»ìÍ>k…?Y™šC9šq ~
+t GE Power Indiasq ~ C¦S3C¥ó3>k…?@  Cnq ~
+t Kaveri Seedsq ~ D3ùšD3“3>aG®?ÌÌÍC@LÍq ~
+t Allied Digital Serv.sq ~ B  BŒ³3>W
+=>™šCúÃq ~
+t HDFC Life Insurancesq ~ D&3D%©š>W
+=?³33E%)q ~
+t Karur Vysya Banksq ~ BBÌÍBBff>W
+==ÌÌÍE_,¤q ~
+t Shree Pushkar Chemsq ~ C,ffC,Í>LÌÍ>³33BÉ×
+q ~
+t Tata Invest Corpsq ~ D33Déš>LÌÍ@33A¾¸Rq ~
+!t RPG Life Sciencessq ~ Cþ¬ÍCþ,Í>LÌÍ?€  C<Qìq ~
+#t OMDCsq ~ E>¹šE>\Í>B\@¹™šA0ÌÍq ~
+%t Jubilant Ingreviasq ~ DS3DÍ>B\?ŒÌÍD²½q ~
+'t Worth Peripheralssq ~ BÙ33BØÌÍ>8Qì>LÌÍA¾(öq ~
+)t KDDLsq ~ C·@ C¶ìÍ>8Qì?&ff@   q ~
++t Birla Tyressq ~ Aç33AæÌÍ>.{=LÌÍD
+²q ~
+-t 
+Dalmia Bharatsq ~ E±šEvf>.{@lÌÍC'W
+q ~
+/t Finolex Indssq ~ C1  C0³3>.{>™™šD¾¸q ~
+1t ICICI Securitiessq ~ D5@ D4öf>#×
+?“33CœÀ q ~
+3t Jindal Drilling&Indssq ~ C¦fCs3>™š>LÌÍBG×
+q ~
+5t Sudarshan Chemicalssq ~ D:|ÍD:6f>™š?ŒÌÍBìÑìq ~
+7t Indian Banksq ~ C  C
+ÌÍ>\)>LÌÍD» Rq ~
+9t RS Software (India)sq ~ B  BÌÍ>\)=LÌÍB,Qìq ~
+;t Tourism Finance Corpsq ~ B“  B’ÌÍ>\)=ÌÌÍC…úáq ~
+=t Srikalahasthi Pipessq ~ CišChÌÍ>¸>™™šD(öq ~
+?t Mrs.Bectors Foodsq ~ CÖs3CÖ,Í>¸?ÌÍC
+®q ~
+At Kirloskar Brotherssq ~ CÖà CÖ™š>¸?ÌÍ@ã×
+q ~
+Ct Symphonysq ~ DkvfDk,Í=õÂ?“33B´½qq ~
+Et Unichem Labsq ~ C¦™šC¦ff=õÂ>ÌÌÍB8õÃq ~
+Gt Jubilant Pharmovasq ~ D+¦fD+s3=õÂ?LÌÍCt¸Rq ~
+It 	Info Edgesq ~ E¢öfE¢Ç3=áG®@¼ÌÍCÞ5Ãq ~
+Kt 
+Shoppers Stopsq ~ C…™šC…s3=áG®>™™šDŒ
+q ~
+Mt 
+Goa Carbonsq ~ CÐùšCÐÀ =áG®>æffB@®q ~
+Ot Prataap Snackssq ~ D6C3D63=ÌÌÍ?@  As33q ~
+Qt 
+V-Guard Inds.sq ~ Cy  CxÀ =ÌÌÍ>€  EFq ~
+St 
+PI Industriessq ~ E8c3E84 =ÌÌÍ@<ÌÍD£×q ~
+Ut AIA Engineeringsq ~ DúfDùÖf=ÌÌÍ@   Azáq ~
+Wt Savita Oil Techsq ~ D¸Ë3D¸œÍ=ÌÌÍ?¹™šAã…q ~
+Yt Godrej Consumer Prodsq ~ Dvó3Dv¶f=ÌÌÍ?s33D}Ð q ~
+[t IDFC First Banksq ~ BP  BOÌÍ=ÌÌÍ=LÌÍFÕÏq ~
+]t Dishman Carbogen Amcsq ~ CQ@ CQÍ=ÌÌÍ>LÌÍDŠ=q ~
+_t CESCsq ~ DQ³3DQ€ =ÌÌÍ?LÌÍC„Qìq ~
+at 
+UFO Moviezsq ~ BÓ™šBÓff=¸Qì=ÌÌÍDG&fq ~
+ct HLE Glascoatsq ~ EW%šEVòf=¸Qì@LÌÍ@Ñë…q ~
+et India Hume Pipesq ~ CfÙšCf¦f=¸Qì>LÌÍBnÂq ~
+gt 
+Eicher Motorssq ~ E$ Ef=£×
+@ffDŽ¸q ~
+it Thomas Cook (India)sq ~ Bw™šBwff=£×
+=LÌÍC_Þ¸q ~
+kt Dangee Dumssq ~ C:šC9ó3=£×
+>™šAyp¤q ~
+mt Prince Pipes & Fittisq ~ D+0 D+Í=£×
+?ÌÍC[ã×q ~
+ot Deccan Cementssq ~ D66fD63=£×
+?ÌÍBKë…q ~
+qt SAILsq ~ CÍC
+ó3=\)=ÌÌÍG£—Hq ~
+st Gulf Oil Lubricantsq ~ D"P D"33=\)>æffBÌÍq ~
+ut Indus Towerssq ~ C^šC]ó3=\)>™šEå•…q ~
+wt Neuland Laboratoriessq ~ Dø†fDø^f=uÂ?   AµÂq ~
+yt ITD Cementationsq ~ B«ffB«LÍ=uÂ=LÌÍD	Vfq ~
+{t Hindustan Media Ventsq ~ B®LÍB®33=uÂ=LÌÍBÿLÍq ~
+}t Garware Tech. Fibressq ~ EXfEXf=#×
+?À  A\£×q ~
+t United Drilling Toolsq ~ CµYšCµFf=#×
+>™šA¼{q ~
+t Piramal Enterprisessq ~ EéšEÛ3=#×
+?fffD,ˆöq ~
+ƒt TV Today Networksq ~ C’lÍC’` <õÂ=ÌÌÍB¶Ñìq ~
+…t MP Bharat Agro Prodsq ~ Cs3Cff<õÂ=LÌÍA_
+=q ~
+‡t ICRAsq ~ Ej™šEj…š<õÂ?   Ac33q ~
+‰t Ahluwalia Contract(Isq ~ CÃ¦fCÃ™š<õÂ=ÌÌÍB.£×q ~
+‹t Maan Aluminiumsq ~ CÅ™šCÅŒÍ<õÂ=ÌÌÍAºffq ~
+x sq ~ 	    w    xsq ~ 	    w    xq ~Îx 
